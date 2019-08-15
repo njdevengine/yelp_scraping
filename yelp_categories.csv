@@ -1,0 +1,1566 @@
+,alias,country_blacklist,country_whitelist,parents,title
+0,3dprinting,,,['localservices'],3D Printing
+1,abruzzese,,['IT'],['italian'],Abruzzese
+2,absinthebars,,['CZ'],['bars'],Absinthe Bars
+3,acaibowls,"['MX', 'IT', 'PL', 'CL', 'TR', 'AR']",,['food'],Acai Bowls
+4,accessories,,,['fashion'],Accessories
+5,accountants,,,['professional'],Accountants
+6,acnetreatment,,,['beautysvc'],Acne Treatment
+7,active,,,[],Active Life
+8,acupuncture,,,['health'],Acupuncture
+9,addictionmedicine,['JP'],,['physicians'],Addiction Medicine
+10,adoptionservices,,,['localservices'],Adoption Services
+11,adult,,,['shopping'],Adult
+12,adultedu,,,['education'],Adult Education
+13,adultentertainment,,,['nightlife'],Adult Entertainment
+14,advertising,,,['professional'],Advertising
+15,aerialfitness,,,['fitness'],Aerial Fitness
+16,aerialtours,,,['tours'],Aerial Tours
+17,aestheticians,"['MX', 'FR', 'CL', 'CH', 'BE', 'AR']",,['medicalspa'],Aestheticians
+18,afghani,"['TR', 'MX']",,['restaurants'],Afghan
+19,african,['TR'],,['restaurants'],African
+20,afrobrazilian,,['BR'],['religiousorgs'],Afro-Brazilian
+21,agriturismi,,"['DE', 'FR', 'IT', 'CH', 'CZ', 'MX', 'TW', 'PL', 'AT', 'CL', 'ES', 'AR']",['hotels'],Agriturismi
+22,aircraftdealers,,"['CZ', 'US', 'PT']",['auto'],Aircraft Dealers
+23,aircraftrepairs,,,['auto'],Aircraft Repairs
+24,airductcleaning,,"['PH', 'IE', 'MY', 'IT', 'GB', 'CA', 'SG', 'US', 'NZ', 'AU', 'ES']",['localservices'],Air Duct Cleaning
+25,airlines,,,['transport'],Airlines
+26,airport_shuttles,,,['transport'],Airport Shuttles
+27,airportlounges,,,['bars'],Airport Lounges
+28,airports,,,['hotelstravel'],Airports
+29,airportterminals,,,['airports'],Airport Terminals
+30,airsoft,,,['active'],Airsoft
+31,alentejo,,['PT'],['portuguese'],Alentejo
+32,algarve,,['PT'],['portuguese'],Algarve
+33,allergist,,,['physicians'],Allergists
+34,alsatian,,"['DE', 'FR']",['french'],Alsatian
+35,alternativemedicine,"['PH', 'JP', 'TW', 'PL', 'AT', 'PT', 'CL', 'FI', 'DE', 'MY', 'HK', 'CH', 'MX', 'TR', 'ES', 'AR']",,['health'],Alternative Medicine
+36,altoatesine,,['IT'],['italian'],Altoatesine
+37,amateursportsteams,['CZ'],,['active'],Amateur Sports Teams
+38,amusementparks,,,['active'],Amusement Parks
+39,andalusian,,"['IT', 'ES']",['restaurants'],Andalusian
+40,anesthesiologists,,"['FR', 'SE', 'US', 'IT', 'PT', 'AU', 'BE']",['physicians'],Anesthesiologists
+41,animalassistedtherapy,,,['health'],Animal Assisted Therapy
+42,animalholistic,,,['petservices'],Holistic Animal Care
+43,animalphysicaltherapy,,,['petservices'],Animal Physical Therapy
+44,animalshelters,,,['pets'],Animal Shelters
+45,antiques,,,['shopping'],Antiques
+46,apartmentagents,,,['realestateagents'],Apartment Agents
+47,apartments,,,['realestate'],Apartments
+48,appliances,,,['homeandgarden'],Appliances
+49,appraisalservices,,,['localservices'],Appraisal Services
+50,apulian,,"['IT', 'FR']",['italian'],Apulian
+51,aquariums,,,['active'],Aquariums
+52,aquariumservices,"['MX', 'HK', 'CL', 'JP', 'AR']",,['petservices'],Aquarium Services
+53,arabian,['DK'],,['restaurants'],Arabian
+54,arabpizza,,['BR'],['arabian'],Arab Pizza
+55,arcades,,,['arts'],Arcades
+56,archery,,,['active'],Archery
+57,architects,,,['professional'],Architects
+58,architecturaltours,,,['tours'],Architectural Tours
+59,argentine,['FI'],,['restaurants'],Argentine
+60,armenian,,"['FR', 'IT', 'GB', 'CZ', 'BE', 'US', 'PL', 'TR', 'ES', 'AR']",['restaurants'],Armenian
+61,arroceria_paella,,['ES'],['spanish'],Arroceria / Paella
+62,artclasses,"['MX', 'HK', 'CL', 'JP', 'AR']",,['education'],Art Classes
+63,artconsultants,,,['professional'],Art Consultants
+64,artificialturf,,,['homeservices'],Artificial Turf
+65,artinstallation,,"['PH', 'DE', 'MY', 'US', 'PL', 'AT', 'CH']",['localservices'],Art Installation
+66,artmuseums,['FR'],,['museums'],Art Museums
+67,artrestoration,,,['localservices'],Art Restoration
+68,arts,,,[],Arts & Entertainment
+69,artsandcrafts,,,['shopping'],Arts & Crafts
+70,artschools,,,['specialtyschools'],Art Schools
+71,artspacerentals,,"['IE', 'IT', 'GB', 'HK', 'SG', 'JP', 'SE', 'US']",['realestate'],Art Space Rentals
+72,artsupplies,,,['artsandcrafts'],Art Supplies
+73,arttours,,,['tours'],Art Tours
+74,asianfusion,,,['restaurants'],Asian Fusion
+75,assistedliving,,,['health'],Assisted Living Facilities
+76,astrologers,,,['psychic_astrology'],Astrologers
+77,asturian,,['ES'],['restaurants'],Asturian
+78,ateliers,,"['NO', 'DE', 'DK', 'IT', 'CH', 'JP', 'BE', 'NL', 'AT', 'TR']",['artsandcrafts'],Ateliers
+79,attractionfarms,,"['NO', 'DE', 'DK', 'IT', 'BR', 'CH', 'SE', 'US', 'AT', 'PT', 'ES']",['farms'],Attraction Farms
+80,atvrentals,,"['NO', 'DE', 'CH', 'BE', 'MX', 'SE', 'US', 'NL', 'PL', 'AT', 'CL', 'FI', 'ES', 'AR']",['active'],ATV Rentals/Tours
+81,auctionhouses,"['PH', 'MY', 'HK', 'JP', 'TW', 'CL', 'TR', 'AR']",,['shopping'],Auction Houses
+82,audiologist,"['CH', 'CZ', 'DE', 'AT']",,['physicians'],Audiologist
+83,audiovisualequipmentrental,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'CH', 'NL', 'ES']",['partyequipmentrentals'],Audio/Visual Equipment Rental
+84,australian,,,['restaurants'],Australian
+85,austrian,"['ES', 'DK']",,['restaurants'],Austrian
+86,authorized_postal_representative,,"['NO', 'SE']",['publicservicesgovt'],Authorized Postal Representative
+87,auto,,,[],Automotive
+88,auto_detailing,"['AU', 'BR', 'ES']",,['auto'],Auto Detailing
+89,autocustomization,,"['DE', 'CA', 'CH', 'CZ', 'SG', 'MX', 'US', 'PL', 'AT', 'PT', 'CL', 'ES', 'AR']",['auto'],Auto Customization
+90,autodamageassessment,,"['NO', 'DE', 'DK', 'BR', 'BE', 'SE', 'US', 'NL', 'PT']",['auto'],Car Inspectors
+91,autoelectric,,"['IT', 'BR', 'CZ', 'MX', 'PT', 'CL', 'ES', 'AR']",['auto'],Auto Electric Services
+92,autoglass,['ES'],,['auto'],Auto Glass Services
+93,autoinsurance,"['PH', 'DE', 'IE', 'FR', 'MY', 'GB', 'HK', 'CA', 'CH', 'SG', 'TW', 'AT', 'NZ', 'FI']",,['insurance'],Auto Insurance
+94,autoloanproviders,,"['PH', 'GB', 'CA', 'CZ', 'SG', 'BE', 'US', 'PL', 'PT', 'AU', 'IE', 'MY', 'IT', 'NL', 'NZ', 'TR']",['auto'],Auto Loan Providers
+95,autopartssupplies,,,['auto'],Auto Parts & Supplies
+96,autorepair,,,['auto'],Auto Repair
+97,autosecurity,['FR'],,['auto'],Auto Security
+98,autoupholstery,,,['auto'],Auto Upholstery
+99,auvergnat,,['FR'],['french'],Auvergnat
+100,aviationservices,,,['auto'],Aviation Services
+101,awnings,,,['localservices'],Awnings
+102,axethrowing,,"['CA', 'GB', 'US']",['active'],Axe Throwing
+103,ayurveda,,,['health'],Ayurveda
+104,azores,,['PT'],['portuguese'],Azores
+105,baby_gear,,,['shopping'],Baby Gear & Furniture
+106,backflowservices,,['US'],['plumbing'],Backflow Services
+107,backshop,,"['CH', 'DE', 'AT']",['food'],Backshop
+108,baden,,['DE'],['german'],Baden
+109,badminton,"['SG', 'PL', 'BR', 'NZ']",,['active'],Badminton
+110,bagels,"['AU', 'ES']",,['food'],Bagels
+111,baguettes,,"['NO', 'DE', 'IT', 'CZ', 'MX', 'SE', 'PT', 'TR']",['restaurants'],Baguettes
+112,bailbondsmen,,"['US', 'PT']",['localservices'],Bail Bondsmen
+113,bakeries,,,['food'],Bakeries
+114,balloonservices,,"['IE', 'DE', 'GB', 'CA', 'BR', 'CH', 'SG', 'BE', 'US', 'NL', 'PL', 'AT', 'NZ', 'AU']",['eventservices'],Balloon Services
+115,bangladeshi,"['MX', 'DK', 'PT', 'TR', 'ES']",,['restaurants'],Bangladeshi
+116,bankruptcy,,,['lawyers'],Bankruptcy Law
+117,banks,,,['financialservices'],Banks & Credit Unions
+118,barbers,,,['beautysvc'],Barbers
+119,barcrawl,,"['DE', 'CH', 'CZ', 'MX', 'US', 'PL', 'AT', 'AU', 'AR']",['nightlife'],Bar Crawl
+120,barreclasses,,"['NO', 'IE', 'DK', 'GB', 'CA', 'CZ', 'BE', 'US', 'NL', 'NZ', 'PT', 'FI', 'AU']",['fitness'],Barre Classes
+121,bars,,,['nightlife'],Bars
+122,bartenders,"['PH', 'NO', 'IE', 'MY', 'GB', 'HK', 'CH', 'SG', 'JP', 'TW', 'PL', 'AT', 'NZ', 'FI', 'TR']",,['eventservices'],Bartenders
+123,bartendingschools,,,['specialtyschools'],Bartending Schools
+124,baseballfields,['FR'],,['active'],Baseball Fields
+125,basketballcourts,"['IE', 'SE', 'NL', 'GB', 'PL', 'CA', 'BR']",,['active'],Basketball Courts
+126,basque,"['DK', 'PT', 'CZ', 'SG', 'AU', 'TR']",,['restaurants'],Basque
+127,bathing_area,,"['NO', 'DE', 'DK', 'CH', 'CZ', 'JP', 'SE', 'AT', 'PT', 'FI']",['active'],Bathing Area
+128,batterystores,['CZ'],,['shopping'],Battery Stores
+129,battingcages,,"['SG', 'JP', 'TW', 'US']",['active'],Batting Cages
+130,bavarian,,"['CH', 'DE', 'AT']",['restaurants'],Bavarian
+131,bbq,"['AU', 'BR']",,['restaurants'],Barbeque
+132,beachbars,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'CZ', 'JP', 'BE', 'TW', 'US', 'PL', 'NZ', 'FI', 'TR']",,['bars'],Beach Bars
+133,beachequipmentrental,,,['active'],Beach Equipment Rentals
+134,beaches,,,['active'],Beaches
+135,beachvolleyball,"['PH', 'GB', 'CA', 'BE', 'TW', 'US', 'PL', 'IE', 'FR', 'MY', 'IT', 'HK', 'CH', 'NL', 'NZ', 'TR']",,['active'],Beach Volleyball
+136,beautysvc,,,[],Beauty & Spas
+137,bedbreakfast,,,['hotelstravel'],Bed & Breakfast
+138,beer_and_wine,,,['food'],"Beer, Wine & Spirits"
+139,beerbar,,,['bars'],Beer Bar
+140,beergarden,,"['CH', 'CZ', 'DE', 'AT']",['restaurants'],Beer Garden
+141,beergardens,,"['NO', 'IE', 'FR', 'DK', 'IT', 'GB', 'CA', 'CZ', 'JP', 'MX', 'SE', 'US', 'PL', 'AU']",['nightlife'],Beer Gardens
+142,beerhall,,"['CH', 'DE', 'AT']",['restaurants'],Beer Hall
+143,beertours,,,['tours'],Beer Tours
+144,behavioranalysts,,,['health'],Behavior Analysts
+145,beira,,['PT'],['portuguese'],Beira
+146,beisl,,['AT'],['restaurants'],Beisl
+147,belgian,,,['restaurants'],Belgian
+148,bento,,['JP'],['food'],Bento
+149,berrichon,,['FR'],['french'],Berrichon
+150,bespoke,"['BR', 'JP', 'MX', 'SE', 'CL', 'FI', 'TR', 'AR']",,['shopping'],Bespoke Clothing
+151,bettingcenters,"['NO', 'FR', 'US', 'NZ', 'CA', 'FI', 'SG']",,['arts'],Betting Centers
+152,beverage_stores,,"['DE', 'IT', 'CH', 'BE', 'US', 'NL', 'AT', 'PT', 'CL', 'AU', 'TR', 'ES']",['food'],Beverage Store
+153,bicyclepaths,"['PH', 'DE', 'FR', 'MY', 'IT', 'HK', 'CA', 'CH', 'TW', 'US', 'AT', 'TR']",,['active'],Bicycle Paths
+154,bicycles,,"['CZ', 'PL', 'DK', 'PT']",[],Bicycles
+155,bike_repair_maintenance,,,['localservices'],Bike Repair/Maintenance
+156,bikeassociations,,"['DK', 'PT']",['bicycles'],Bike Associations
+157,bikeparking,['FR'],,['active'],Bike Parking
+158,bikerentals,,,['active'],Bike Rentals
+159,bikerepair,,"['DK', 'PT']",['bicycles'],Bike Repair
+160,bikes,,,['sportgoods'],Bikes
+161,bikesharing,,,['transport'],Bike Sharing
+162,bikeshop,,"['DK', 'PT']",['bicycles'],Bike Shop
+163,biketours,,,['tours'],Bike tours
+164,billingservices,,"['SE', 'US']",['professional'],Billing Services
+165,bingo,,"['NO', 'IE', 'DK', 'IT', 'GB', 'BR', 'MX', 'SE', 'US', 'NZ', 'CL', 'FI', 'AU', 'ES', 'AR']",['arts'],Bingo Halls
+166,biohazardcleanup,,,['localservices'],Biohazard Cleanup
+167,birdshops,,"['NO', 'DE', 'DK', 'IT', 'SG', 'BE', 'SE', 'US', 'NL', 'ES']",['petstore'],Bird Shops
+168,bistros,['US'],,['restaurants'],Bistros
+169,blacksea,,['TR'],['restaurants'],Black Sea
+170,blinds,,,['homeservices'],Shades & Blinds
+171,blooddonation,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'SG', 'BE', 'TW', 'NL']",,['health'],Blood & Plasma Donation Centers
+172,blowfish,,['JP'],['japanese'],Blowfish
+173,blowoutservices,,"['NO', 'IE', 'FR', 'DK', 'GB', 'CA', 'CZ', 'US', 'PT', 'AU', 'TR']",['hair'],Blow Dry/Out Services
+174,boatcharters,['CZ'],,['eventservices'],Boat Charters
+175,boatdealers,"['PH', 'FR', 'MY', 'IT', 'HK', 'BR', 'JP', 'TW', 'CL', 'FI', 'TR']",,['auto'],Boat Dealers
+176,boating,,,['active'],Boating
+177,boatpartsandsupplies,,,['auto'],Boat Parts & Supplies
+178,boatrepair,['CZ'],,['professional'],Boat Repair
+179,boattours,,,['tours'],Boat Tours
+180,bobsledding,,,['active'],Bobsledding
+181,bocceball,,,['active'],Bocce Ball
+182,bodycontouring,"['IT', 'FR']",,['health'],Body Contouring
+183,bodyshops,,,['auto'],Body Shops
+184,bookbinding,,,['localservices'],Bookbinding
+185,bookkeepers,,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'CZ', 'SG', 'BE', 'TW', 'US', 'NL', 'NZ', 'AU']",['professional'],Bookkeepers
+186,bookstores,,,['media'],Bookstores
+187,bootcamps,,"['NO', 'DK', 'IT', 'CZ', 'SE', 'US', 'PL', 'NZ', 'PT', 'AU', 'ES']",['fitness'],Boot Camps
+188,boudoirphotography,,"['DE', 'CA', 'SE', 'US']",['photographers'],Boudoir Photography
+189,bouncehouserentals,,"['NO', 'DE', 'IE', 'DK', 'GB', 'CA', 'CH', 'BE', 'SE', 'US', 'NL', 'PL', 'AT', 'NZ', 'AU']",['partyequipmentrentals'],Bounce House Rentals
+190,bourguignon,,['FR'],['french'],Bourguignon
+191,bowling,,,['active'],Bowling
+192,boxing,"['SE', 'PL', 'FI', 'SG', 'AU', 'TR', 'ES']",,['fitness'],Boxing
+193,brasseries,"['MX', 'AR']",,['restaurants'],Brasseries
+194,brazilian,,,['restaurants'],Brazilian
+195,brazilianempanadas,,['BR'],['brazilian'],Brazilian Empanadas
+196,brazilianjiujitsu,,,['martialarts'],Brazilian Jiu-jitsu
+197,breakfast_brunch,,,['restaurants'],Breakfast & Brunch
+198,breweries,,,['food'],Breweries
+199,brewingsupplies,"['HK', 'CL', 'JP', 'AR']",,['shopping'],Brewing Supplies
+200,brewpubs,"['MX', 'FR', 'IT', 'CL', 'ES', 'AR']",,['breweries'],Brewpubs
+201,bridal,,,['shopping'],Bridal
+202,british,['FI'],,['restaurants'],British
+203,bubblesoccer,,,['active'],Bubble Soccer
+204,bubbletea,"['MX', 'AT', 'CH', 'TR', 'ES', 'AR']",,['food'],Bubble Tea
+205,buddhist_temples,,,['religiousorgs'],Buddhist Temples
+206,buffets,,,['restaurants'],Buffets
+207,buildingsupplies,,,['homeservices'],Building Supplies
+208,bulgarian,"['NO', 'DK', 'CA', 'BR', 'SG', 'NL', 'NZ', 'TR']",,['restaurants'],Bulgarian
+209,bulkbilling,,['AU'],['medcenters'],Bulk Billing
+210,bungeejumping,,,['active'],Bungee Jumping
+211,burgers,,,['restaurants'],Burgers
+212,burmese,"['DK', 'PT', 'FI', 'CZ', 'TR', 'ES']",,['restaurants'],Burmese
+213,buses,,,['transport'],Buses
+214,businessconsulting,"['TW', 'HK', 'FI', 'CZ', 'TR']",,['professional'],Business Consulting
+215,businessfinancing,,,['financialservices'],Business Financing
+216,businesslawyers,,"['NO', 'IE', 'DK', 'GB', 'CA', 'BR', 'CZ', 'US', 'PL', 'PT']",['lawyers'],Business Law
+217,busrental,,,['localservices'],Bus Rental
+218,busstations,['FR'],,['transport'],Bus Stations
+219,bustours,,,['tours'],Bus Tours
+220,butcher,"['CH', 'DE', 'AT']",,['food'],Butcher
+221,c_and_mh,,,['health'],Counseling & Mental Health
+222,cabaret,"['MX', 'HK', 'CL', 'JP', 'AR']",,['arts'],Cabaret
+223,cabinetry,"['MX', 'HK', 'CL', 'JP', 'AR']",,['homeservices'],Cabinetry
+224,cablecars,,"['DE', 'FR', 'IT', 'BR', 'CH', 'CZ', 'JP', 'US', 'AT', 'NZ', 'PT', 'TR']",['transport'],Cable Cars
+225,cafes,"['MX', 'FI', 'ES', 'AR']",,['restaurants'],Cafes
+226,cafeteria,"['IE', 'FR', 'SE', 'NZ', 'CA', 'BR', 'SG']",,['restaurants'],Cafeteria
+227,cajun,"['SG', 'AU', 'ES', 'PT']",,['restaurants'],Cajun/Creole
+228,cakeshop,,,['food'],Patisserie/Cake Shop
+229,calabrian,,"['IT', 'FR', 'US']",['italian'],Calabrian
+230,calligraphy,,"['US', 'NL', 'IT', 'BR', 'TR', 'ES', 'BE']",['localservices'],Calligraphy
+231,cambodian,"['DK', 'PT', 'FI', 'CZ', 'TR', 'ES']",,['restaurants'],Cambodian
+232,campgrounds,,,['hotelstravel'],Campgrounds
+233,candlestores,,,['homeandgarden'],Candle Stores
+234,candy,,,['gourmet'],Candy Stores
+235,cannabis_clinics,,"['IE', 'IT', 'GB', 'CA', 'US', 'NL', 'PL', 'TR']",['health'],Cannabis Clinics
+236,cannabiscollective,,"['CA', 'US']",['health'],Cannabis Collective
+237,cannabisdispensaries,,"['CA', 'US']",['shopping'],Cannabis Dispensaries
+238,cannabisreferrals,,"['CA', 'US']",['health'],Medical Cannabis Referrals
+239,cannabistours,,"['CA', 'US']",['cannabis_clinics'],Cannabis Tours
+240,canteen,,"['NO', 'DE', 'DK', 'IT', 'CH', 'CZ', 'JP', 'BE', 'NL', 'PL', 'AT', 'FI']",['restaurants'],Canteen
+241,cantonese,,"['GB', 'CA', 'SG', 'JP', 'BE', 'SE', 'TW', 'US', 'AU', 'FR', 'MY', 'IT', 'HK', 'NL', 'NZ', 'AR']",['chinese'],Cantonese
+242,canyoneering,,,['active'],Canyoneering
+243,car_dealers,,,['auto'],Car Dealers
+244,carauctions,,"['PH', 'TW', 'MY', 'US', 'HK', 'SG']",['auto'],Car Auctions
+245,carbrokers,,"['AU', 'NZ', 'US', 'AR']",['auto'],Car Brokers
+246,carbuyers,,"['PH', 'NO', 'GB', 'CA', 'BR', 'CZ', 'SG', 'BE', 'US', 'PL', 'AT', 'AU', 'IE', 'DE', 'DK', 'MY', 'CH', 'NL', 'NZ']",['auto'],Car Buyers
+247,cardioclasses,,,['fitness'],Cardio Classes
+248,cardiology,,,['physicians'],Cardiologists
+249,careercounseling,,,['professional'],Career Counseling
+250,caribbean,"['TR', 'FI', 'PT']",,['restaurants'],Caribbean
+251,caricatures,,"['NO', 'DK', 'IT', 'BR', 'SG', 'SE', 'US', 'PL', 'ES']",['eventservices'],Caricatures
+252,carousels,,,['active'],Carousels
+253,carpenters,['TR'],,['homeservices'],Carpenters
+254,carpet_cleaning,,,['localservices'],Carpet Cleaning
+255,carpetdyeing,,"['PH', 'IE', 'MY', 'GB', 'CA', 'SG', 'US', 'PL', 'NZ', 'AU']",['localservices'],Carpet Dyeing
+256,carpeting,,,['homeservices'],Carpeting
+257,carpetinstallation,,,['homeservices'],Carpet Installation
+258,carrental,,,['hotelstravel'],Car Rental
+259,carshares,"['HK', 'BR', 'SG', 'JP', 'BE', 'TW', 'NL', 'PT', 'FI', 'TR']",,['auto'],Car Share Services
+260,carwash,,,['auto'],Car Wash
+261,carwindowtinting,,"['IE', 'IT', 'GB', 'CA', 'SG', 'BE', 'US', 'NL', 'NZ', 'AU', 'ES']",['autoglass'],Car Window Tinting
+262,casinos,"['HK', 'JP']",,['arts'],Casinos
+263,castles,,"['NO', 'DE', 'FR', 'DK', 'IT', 'GB', 'CH', 'CZ', 'JP', 'BE', 'SE', 'AT', 'PT', 'FI', 'ES']",['arts'],Castles
+264,catalan,,"['FR', 'IT', 'MX', 'US', 'PT', 'CL', 'TR', 'ES', 'AR']",['restaurants'],Catalan
+265,catering,,,['eventservices'],Caterers
+266,cellphoneaccessories,"['PH', 'MY', 'PL', 'FI', 'TR']",,['shopping'],Mobile Phone Accessories
+267,centralbrazilian,,['BR'],['brazilian'],Central Brazilian
+268,ceremonialclothing,"['DE', 'FR', 'AT', 'CH', 'JP']",,['fashion'],Ceremonial Clothing
+269,challengecourses,,"['NO', 'DE', 'FR', 'DK', 'HK', 'CA', 'CH', 'CZ', 'SG', 'SE', 'US', 'PL', 'AT', 'NZ']",['active'],Challenge Courses
+270,champagne_bars,['AU'],,['bars'],Champagne Bars
+271,cheekufta,,"['DE', 'TR']",['turkish'],Chee Kufta
+272,cheerleading,,"['DE', 'SE', 'US', 'AT', 'CA', 'CH']",['specialtyschools'],Cheerleading
+273,cheese,,,['gourmet'],Cheese Shops
+274,cheesesteaks,,"['IE', 'US', 'NL', 'GB', 'PL', 'CA', 'AU']",['restaurants'],Cheesesteaks
+275,cheesetastingclasses,,,['tastingclasses'],Cheese Tasting Classes
+276,chicken_wings,"['NO', 'FR', 'DK', 'IT', 'CH', 'JP', 'BE', 'NL', 'PT', 'CL', 'FI', 'ES']",,['restaurants'],Chicken Wings
+277,chickenshop,['CZ'],,['restaurants'],Chicken Shop
+278,childbirthedu,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'AU', 'IE', 'DE', 'FR', 'DK', 'MY', 'IT', 'CH', 'NL', 'NZ', 'ES']",['specialtyschools'],Childbirth Education
+279,childcare,,,['localservices'],Child Care & Day Care
+280,childcloth,,,['fashion'],Children's Clothing
+281,childproofing,,"['US', 'BR', 'PT']",['homeservices'],Childproofing
+282,childrensmuseums,['FR'],,['museums'],Children's Museums
+283,chilean,,"['FI', 'CL', 'FR', 'BR']",['restaurants'],Chilean
+284,chimneycakes,,"['CZ', 'PL', 'FR', 'US']",['food'],Chimney Cakes
+285,chimneysweeps,['MX'],,['homeservices'],Chimney Sweeps
+286,chinese,,,['restaurants'],Chinese
+287,chinesebazaar,,"['ES', 'PT']",['shopping'],Chinese Bazaar
+288,chinesemartialarts,,,['martialarts'],Chinese Martial Arts
+289,chiropractors,,,['health'],Chiropractors
+290,chocolate,,,['gourmet'],Chocolatiers & Shops
+291,choirs,"['CA', 'BR', 'CZ', 'SG', 'BE', 'US', 'NL', 'PL', 'NZ']",,['arts'],Choirs
+292,christmastrees,,,['homeandgarden'],Christmas Trees
+293,churches,,,['religiousorgs'],Churches
+294,churros,,"['MX', 'PT', 'CL', 'BR', 'ES', 'AR']",['food'],Churros
+295,cideries,"['NO', 'FR', 'DK', 'IT', 'JP', 'BE', 'NL', 'TR']",,['food'],Cideries
+296,cigarbars,,['US'],['bars'],Cigar Bars
+297,circuittraininggyms,,['US'],['gyms'],Circuit Training Gyms
+298,circusschools,,"['FR', 'BR', 'MX', 'PT', 'CL', 'FI', 'ES', 'AR']",['specialtyschools'],Circus Schools
+299,civiccenter,,['US'],['publicservicesgovt'],Civic Center
+300,climbing,,,['active'],Climbing
+301,clockrepair,"['MX', 'IT', 'CL', 'JP', 'AR']",,['localservices'],Clock Repair
+302,clothingrental,,,['fashion'],Clothing Rental
+303,clowns,"['SE', 'PL', 'FI', 'CZ', 'SG', 'TR']",,['eventservices'],Clowns
+304,clubcrawl,,['US'],['nightlife'],Club Crawl
+305,cocktailbars,,,['bars'],Cocktail Bars
+306,coffee,,,['food'],Coffee & Tea
+307,coffeeroasteries,,,['food'],Coffee Roasteries
+308,coffeeshops,,"['NL', 'PT']",['nightlife'],Coffeeshops
+309,coffeeteasupplies,"['PH', 'MY', 'IT', 'BR', 'CZ', 'MX', 'US', 'PT', 'CL', 'FI', 'ES', 'AR']",,['food'],Coffee & Tea Supplies
+310,collegecounseling,,"['US', 'PT']",['education'],College Counseling
+311,collegeuniv,,,['education'],Colleges & Universities
+312,colombian,,"['FR', 'CA', 'BE', 'MX', 'US', 'CL', 'FI', 'ES', 'AR']",['latin'],Colombian
+313,colonics,,"['NO', 'IE', 'DK', 'GB', 'CA', 'SG', 'US', 'NZ', 'AU']",['health'],Colonics
+314,comedyclubs,['CZ'],,['nightlife'],Comedy Clubs
+315,comfortfood,,"['MX', 'US', 'CL', 'CA', 'FI', 'JP', 'AR']",['restaurants'],Comfort Food
+316,comicbooks,,,['media'],Comic Books
+317,commercialrealestate,,"['NO', 'DE', 'DK', 'CA', 'BR', 'CZ', 'BE', 'US', 'NL', 'PL', 'PT', 'AU']",['realestate'],Commercial Real Estate
+318,commissionedartists,['FR'],,['professional'],Commissioned Artists
+319,communitybookbox,"['PH', 'FR', 'MY', 'IT', 'JP', 'MX', 'CL', 'ES', 'AR']",,['localservices'],Community Book Box
+320,communitycenters,,"['NO', 'IE', 'DK', 'GB', 'CA', 'BR', 'CZ', 'SE', 'US', 'PT']",['publicservicesgovt'],Community Centers
+321,communitygardens,,"['NO', 'GB', 'CA', 'BR', 'SG', 'SE', 'US', 'PT', 'AU', 'DE', 'IE', 'FR', 'DK', 'IT', 'NZ', 'ES']",['localservices'],Community Gardens
+322,computers,,,['shopping'],Computers
+323,concept_shops,"['IT', 'HK', 'CA', 'BR', 'SG', 'JP', 'SE', 'US', 'PL', 'NZ', 'CL', 'TR', 'ES', 'AR']",,['shopping'],Concept Shops
+324,conciergemedicine,,['US'],['health'],Concierge Medicine
+325,condominiums,"['AU', 'NZ']",,['realestate'],Condominiums
+326,congee,,"['HK', 'SG', 'TW', 'MY']",['chinese'],Congee
+327,consumerlaw,"['NO', 'DK', 'HK', 'CZ', 'JP', 'SE', 'TW', 'FI', 'TR', 'ES']",,['lawyers'],Consumer Law
+328,contractlaw,['FR'],,['lawyers'],Contract Law
+329,contractors,,,['homeservices'],Contractors
+330,convenience,['FI'],,['food'],Convenience Stores
+331,conveyorsushi,,"['DE', 'IT', 'HK', 'CH', 'SG', 'JP', 'BE', 'SE', 'TW', 'US', 'NL', 'PL', 'AT']",['japanese'],Conveyor Belt Sushi
+332,cookingclasses,,,['artsandcrafts'],Cooking Classes
+333,cookingschools,,,['specialtyschools'],Cooking Schools
+334,copyshops,,,['localservices'],Printing Services
+335,corsican,,"['FR', 'BE']",['restaurants'],Corsican
+336,cosmeticdentists,['CZ'],,['dentists'],Cosmetic Dentists
+337,cosmetics,,,"['shopping', 'beautysvc']",Cosmetics & Beauty Supply
+338,cosmeticsurgeons,,,['physicians'],Cosmetic Surgeons
+339,cosmetology_schools,,,['specialtyschools'],Cosmetology Schools
+340,costumes,,,['artsandcrafts'],Costumes
+341,countertopinstall,"['DE', 'FR', 'IT', 'AT', 'CH', 'CZ']",,['homeservices'],Countertop Installation
+342,countryclubs,,"['IT', 'HK', 'BR', 'SG', 'JP', 'MX', 'TW', 'US', 'CL', 'ES', 'AR']",['arts'],Country Clubs
+343,countrydancehalls,,"['SE', 'US']",['nightlife'],Country Dance Halls
+344,couriers,,,['localservices'],Couriers & Delivery Services
+345,courthouses,"['PH', 'GB', 'CA', 'SG', 'JP', 'TW', 'CL', 'FI', 'IE', 'MY', 'HK', 'MX', 'NZ', 'TR', 'ES', 'AR']",,['publicservicesgovt'],Courthouses
+346,courtreporters,,"['NL', 'CA', 'BE', 'US']",['legalservices'],Court Reporters
+347,cprclasses,,"['US', 'AU', 'SE', 'PT']",['specialtyschools'],CPR Classes
+348,craneservices,"['PH', 'FR', 'MY', 'HK', 'JP', 'TW', 'FI', 'TR']",,['localservices'],Crane Services
+349,cremationservices,['TR'],,['funeralservices'],Cremation Services
+350,creperies,,,['restaurants'],Creperies
+351,criminaldefense,,,['lawyers'],Criminal Defense Law
+352,crisispregnancycenters,,['US'],['health'],Crisis Pregnancy Centers
+353,cryotherapy,,"['IT', 'US']",['health'],Cryotherapy
+354,csa,,"['DE', 'FR', 'US', 'AT', 'CH']",['food'],CSA
+355,cuban,"['SG', 'TR', 'DK']",,['restaurants'],Cuban
+356,cucinacampana,,['IT'],['italian'],Cucina campana
+357,culturalcenter,"['IE', 'CA', 'TR', 'NZ']",,['arts'],Cultural Center
+358,cupcakes,"['CZ', 'CA', 'TR', 'ES']",,['food'],Cupcakes
+359,currencyexchange,,,['financialservices'],Currency Exchange
+360,currysausage,,"['CH', 'DE', 'AT']",['restaurants'],Curry Sausage
+361,customcakes,"['CH', 'DE', 'FR', 'AT']",,['food'],Custom Cakes
+362,custommerchandise,,,['shopping'],Customized Merchandise
+363,customsbrokers,,,['professional'],Customs Brokers
+364,cyclingclasses,"['IE', 'MX', 'NZ', 'PT', 'CA', 'BR', 'AR']",,['active'],Cycling Classes
+365,cypriot,,"['CH', 'DE', 'AT']",['restaurants'],Cypriot
+366,czech,,"['NO', 'DE', 'IE', 'FR', 'DK', 'IT', 'GB', 'CA', 'CZ', 'BE', 'SE', 'US', 'PL', 'FI', 'AU']",['restaurants'],Czech
+367,czechslovakian,,"['PT', 'MX', 'AR']",['restaurants'],Czech/Slovakian
+368,dagashi,,['JP'],['gourmet'],Dagashi
+369,damagerestoration,,"['US', 'PT', 'NZ', 'CA', 'SG', 'AU', 'TR']",['homeservices'],Damage Restoration
+370,dance_schools,,,['specialtyschools'],Dance Schools
+371,danceclubs,,,['nightlife'],Dance Clubs
+372,dancerestaurants,,['FI'],['nightlife'],Dance Restaurants
+373,dancestudio,,,['fitness'],Dance Studios
+374,dancewear,,,['sportswear'],Dance Wear
+375,danish,,"['NO', 'FR', 'DK', 'SE']",['restaurants'],Danish
+376,dartarenas,,"['DE', 'US', 'PL', 'AT', 'CH']",['active'],Dart Arenas
+377,datarecovery,"['PH', 'TW', 'MY', 'NL', 'HK', 'FI', 'JP']",,['itservices'],Data Recovery
+378,daycamps,"['MX', 'HK', 'CL', 'JP', 'AR']",,['active'],Day Camps
+379,debtrelief,,"['CA', 'US']",['financialservices'],Debt Relief Services
+380,decksrailing,,,['homeservices'],Decks & Railing
+381,delicatessen,['US'],,['food'],Delicatessen
+382,delis,"['FR', 'SE', 'NL', 'IT', 'PT', 'CL', 'BE']",,['restaurants'],Delis
+383,demolitionservices,,"['NO', 'DE', 'DK', 'IT', 'BR', 'CH', 'CZ', 'BE', 'US', 'NL', 'PL', 'AT', 'PT', 'AU', 'ES']",['homeservices'],Demolition Services
+384,dentalhygeiniststorefront,,['CA'],['dentalhygienists'],Storefront Clinics
+385,dentalhygienists,,"['NO', 'DE', 'DK', 'US', 'NL', 'PT', 'CA']",['health'],Dental Hygienists
+386,dentalhygienistsmobile,,['CA'],['dentalhygienists'],Mobile Clinics
+387,dentists,,,['health'],Dentists
+388,departmentsofmotorvehicles,"['FR', 'BE']",,['publicservicesgovt'],Departments of Motor Vehicles
+389,deptstores,,,"['shopping', 'fashion']",Department Stores
+390,dermatology,,,['physicians'],Dermatologists
+391,desserts,,,['food'],Desserts
+392,diagnosticimaging,,"['IE', 'FR', 'GB', 'CA', 'BR', 'MX', 'US', 'PT', 'CL', 'AU', 'ES', 'AR']",['diagnosticservices'],Diagnostic Imaging
+393,diagnosticservices,,,['health'],Diagnostic Services
+394,dialysisclinics,,"['IT', 'BR', 'MX', 'US', 'PT', 'CL', 'TR', 'ES', 'AR']",['health'],Dialysis Clinics
+395,diamondbuyers,,,['shopping'],Diamond Buyers
+396,dietitians,,,['health'],Dietitians
+397,digitizingservices,,"['NO', 'BR', 'DK', 'US']",['professional'],Digitizing Services
+398,dimsum,"['TR', 'BR', 'PT']",,['chinese'],Dim Sum
+399,diners,"['CZ', 'AU', 'FI', 'SE']",,['restaurants'],Diners
+400,dinnertheater,"['FR', 'NL', 'IT', 'JP', 'BE']",,['restaurants'],Dinner Theater
+401,disabilitylaw,,,['lawyers'],Disability Law
+402,discgolf,"['SG', 'AU', 'DK']",,['active'],Disc Golf
+403,discountstore,,,['shopping'],Discount Store
+404,distilleries,,,['food'],Distilleries
+405,divebars,"['FR', 'NL', 'IT', 'CZ', 'AU', 'BE']",,['bars'],Dive Bars
+406,diveshops,,"['DE', 'IT', 'BR', 'CH', 'JP', 'MX', 'US', 'AT', 'NZ', 'CL', 'AU', 'ES', 'AR']",['sportgoods'],Dive Shops
+407,diving,,,['active'],Diving
+408,divorce,,,['lawyers'],Divorce & Family Law
+409,diyautoshop,,"['DE', 'US', 'AT', 'PT', 'CH', 'AU']",['autorepair'],DIY Auto Shop
+410,diyfood,"['DE', 'FR', 'IT', 'CH', 'CZ', 'MX', 'SE', 'AT', 'NZ', 'CL', 'FI', 'ES']",,['food'],Do-It-Yourself Food
+411,djs,,,['eventservices'],DJs
+412,dog_parks,,,['parks'],Dog Parks
+413,dogwalkers,,,['petservices'],Dog Walkers
+414,dolmusstation,,['TR'],['transport'],Dolmus Station
+415,dominican,,['US'],['caribbean'],Dominican
+416,donairs,,"['FR', 'DK', 'PL', 'CA', 'CZ', 'TR', 'BE']",['food'],Donairs
+417,donationcenter,,"['NO', 'DE', 'DK', 'BR', 'CH', 'BE', 'US', 'NL', 'AT', 'ES']",['localservices'],Donation Center
+418,donburi,,"['HK', 'JP', 'TW']",['japanese'],Donburi
+419,donuts,['ES'],,['food'],Donuts
+420,doorsales,"['PH', 'NO', 'JP', 'SE', 'TW', 'CL', 'FI', 'IE', 'FR', 'DK', 'MY', 'HK', 'MX', 'TR', 'ES', 'AR']",,['homeservices'],Door Sales/Installation
+421,doulas,,"['FR', 'US', 'IT', 'PT', 'CA', 'CZ', 'BE']",['health'],Doulas
+422,dramaschools,,,['specialtyschools'],Drama Schools
+423,driedfruit,,"['HK', 'BR', 'CZ', 'JP', 'MX', 'SE', 'TW', 'PL', 'CL', 'TR', 'ES', 'AR']",['gourmet'],Dried Fruit
+424,driveintheater,"['MX', 'FR', 'PL', 'CL', 'AR']",,['movietheaters'],Drive-In Theater
+425,drivethrubars,,['US'],['bars'],Drive-Thru Bars
+426,driving_schools,,,['specialtyschools'],Driving Schools
+427,drones,,,['shopping'],Drones
+428,drugstores,"['NO', 'FR', 'DK', 'MX', 'SE', 'CL', 'TR', 'AR']",,['shopping'],Drugstores
+429,dryclean,,,['laundryservices'],Dry Cleaning
+430,drywall,"['HK', 'JP']",,['homeservices'],Drywall Installation & Repair
+431,duilawyers,,"['DE', 'CA', 'US']",['lawyers'],DUI Law
+432,duischools,,['US'],['specialtyschools'],DUI Schools
+433,dumplings,,"['DE', 'IE', 'GB', 'CA', 'CH', 'SG', 'JP', 'BE', 'NL', 'PL', 'AT', 'NZ', 'AU']",['restaurants'],Dumplings
+434,dumpsterrental,,"['PH', 'NO', 'GB', 'CA', 'SG', 'BE', 'US', 'PL', 'AT', 'AU', 'IE', 'DE', 'DK', 'MY', 'HK', 'CH', 'NL', 'NZ']",['junkremovalandhauling'],Dumpster Rental
+435,duplicationservices,,['US'],['professional'],Duplication Services
+436,dutyfreeshops,,,['shopping'],Duty-Free Shops
+437,earnosethroat,,,['physicians'],Ear Nose & Throat
+438,eastern_european,,"['NO', 'FR', 'DK', 'CZ', 'AU']",['restaurants'],Eastern European
+439,easterngerman,,['DE'],['german'],Eastern German
+440,easternmexican,,['MX'],['mexican'],Eastern Mexican
+441,eatertainment,,"['DE', 'US', 'NL', 'AT', 'BR', 'CH', 'BE']",['arts'],Eatertainment
+442,editorialservices,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'US', 'PL', 'AT', 'PT', 'CL', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'IT', 'CH', 'MX', 'NL', 'NZ', 'ES', 'AR']",['professional'],Editorial Services
+443,education,,,[],Education
+444,educationservices,['BR'],,['education'],Educational Services
+445,egyptian,,"['FR', 'US', 'IT', 'CA', 'BE']",['mideastern'],Egyptian
+446,eldercareplanning,,,['localservices'],Elder Care Planning
+447,elderlaw,,"['DE', 'BR', 'CH', 'US', 'PL', 'AT', 'PT', 'TR']",['lawyers'],Elder Law
+448,electricians,,,['homeservices'],Electricians
+449,electricitysuppliers,,,['utilities'],Electricity Suppliers
+450,electronics,,,['shopping'],Electronics
+451,electronicsrepair,,,['localservices'],Electronics Repair
+452,elementaryschools,,,['education'],Elementary Schools
+453,elevatorservices,"['PH', 'FR', 'MY', 'CZ', 'JP', 'MX', 'CL', 'FI', 'AR']",,['localservices'],Elevator Services
+454,eltern_cafes,,"['CH', 'DE', 'AT']","['restaurants', 'food']",Parent Cafes
+455,embassy,['TR'],,['publicservicesgovt'],Embassy
+456,embroideryandcrochet,,,['artsandcrafts'],Embroidery & Crochet
+457,emergencymedicine,,,['physicians'],Emergency Medicine
+458,emergencypethospital,,,['petservices'],Emergency Pet Hospital
+459,emergencyrooms,,,['health'],Emergency Rooms
+460,emilian,,['IT'],['italian'],Emilian
+461,empanadas,,"['CL', 'US', 'ES', 'AR']",['food'],Empanadas
+462,employmentagencies,,,['professional'],Employment Agencies
+463,employmentlawyers,,,['lawyers'],Employment Law
+464,emstraining,,"['DE', 'SE', 'AT', 'CH', 'ES']",['fitness'],EMS Training
+465,endocrinologists,"['IE', 'GB', 'HK', 'CA', 'SG', 'JP', 'SE', 'TW', 'PL', 'NZ', 'FI', 'AU']",,['physicians'],Endocrinologists
+466,endodontists,['CZ'],,['dentists'],Endodontists
+467,engraving,,,['localservices'],Engraving
+468,entertainmentlaw,,['US'],['lawyers'],Entertainment Law
+469,enviroabatement,,,['localservices'],Environmental Abatement
+470,environmentaltesting,,"['NO', 'IE', 'DK', 'GB', 'CA', 'SG', 'BE', 'US', 'NL', 'NZ', 'FI', 'AU']",['localservices'],Environmental Testing
+471,eritrean,,"['DE', 'US', 'IT', 'AT', 'CH']",['restaurants'],Eritrean
+472,eroticmassage,"['PH', 'NO', 'DK', 'MY', 'HK', 'JP', 'SE', 'TW', 'US', 'CL', 'FI', 'TR']",,['beautysvc'],Erotic Massage
+473,escapegames,,,['active'],Escape Games
+474,estateliquidation,['CZ'],,['realestate'],Estate Liquidation
+475,estatephotography,"['IT', 'JP']",,['realestatesvcs'],Real Estate Photography
+476,estateplanning,"['NO', 'SE']",,['lawyers'],Estate Planning Law
+477,estheticians,,,['skincare'],Estheticians
+478,ethicgrocery,"['PH', 'DE', 'FR', 'MY', 'CH', 'CZ', 'JP', 'BE', 'US', 'NL', 'AT', 'TR']",,['food'],Ethical Grocery
+479,ethiopian,"['TR', 'CZ', 'SG', 'MX']",,['restaurants'],Ethiopian
+480,evchargingstations,,,['auto'],EV Charging Stations
+481,eventphotography,,,['photographers'],Event Photography
+482,eventplanning,,,['eventservices'],Party & Event Planning
+483,eventservices,,,[],Event Planning & Services
+484,excavationservices,,,['homeservices'],Excavation Services
+485,experiences,,"['NO', 'DE', 'SE', 'DK', 'PT', 'CZ']",['active'],Experiences
+486,eyebrowservices,,,['beautysvc'],Eyebrow Services
+487,eyelashservice,['IT'],,['beautysvc'],Eyelash Service
+488,fabricstores,,,['artsandcrafts'],Fabric Stores
+489,facepainting,"['PH', 'SG', 'JP', 'SE', 'TW', 'PL', 'CL', 'FI', 'FR', 'MY', 'IT', 'HK', 'MX', 'TR', 'ES', 'AR']",,['eventservices'],Face Painting
+490,fado_houses,,['PT'],['portuguese'],Fado Houses
+491,faithbasedcpc,,['US'],['crisispregnancycenters'],Faith-based Crisis Pregnancy Centers
+492,falafel,"['PT', 'MX', 'AR']",,['mediterranean'],Falafel
+493,familydr,['BR'],,['physicians'],Family Practice
+494,farmequipmentrepair,,,['localservices'],Farm Equipment Repair
+495,farmersmarket,,,['food'],Farmers Market
+496,farmingequipment,,,['shopping'],Farming Equipment
+497,farms,,,['arts'],Farms
+498,farriers,,,['petservices'],Farriers
+499,fashion,,,['shopping'],Fashion
+500,fasil,,['TR'],['nightlife'],Fasil Music
+501,fencesgates,,,['homeservices'],Fences & Gates
+502,fencing,,,['active'],Fencing Clubs
+503,fengshui,,,['professional'],Feng Shui
+504,ferries,,,['transport'],Ferries
+505,fertility,,,['physicians'],Fertility
+506,festivals,,,['arts'],Festivals
+507,filipino,"['CZ', 'TR', 'FI', 'DK']",,['restaurants'],Filipino
+508,financialadvising,,,['financialservices'],Financial Advising
+509,financialservices,,,[],Financial Services
+510,fingerprinting,,['US'],['localservices'],Fingerprinting
+511,firearmtraining,,['US'],['specialtyschools'],Firearm Training
+512,firedepartments,"['IE', 'GB', 'NZ', 'CA', 'SG']",,['publicservicesgovt'],Fire Departments
+513,fireplace,,,['homeservices'],Fireplace Services
+514,fireprotection,,,['homeservices'],Fire Protection Services
+515,firewood,"['PH', 'MY', 'HK', 'CZ', 'JP', 'BE', 'TW', 'NL', 'TR']",,['homeservices'],Firewood
+516,fireworks,,"['GB', 'CA', 'CZ', 'MX', 'US', 'NZ', 'PT', 'CL', 'AU', 'AR']",['shopping'],Fireworks
+517,firstaidclasses,"['IE', 'FR', 'NL', 'NZ', 'BR', 'SG', 'BE']",,['specialtyschools'],First Aid Classes
+518,fischbroetchen,,['DE'],['restaurants'],Fischbroetchen
+519,fishing,,,['active'],Fishing
+520,fishmonger,,"['NO', 'DE', 'DK', 'IT', 'CH', 'CZ', 'BE', 'SE', 'NL', 'PL', 'AT', 'PT', 'FI', 'AU']",['food'],Fishmonger
+521,fishnchips,"['BR', 'PT']",,['restaurants'],Fish & Chips
+522,fitness,,,['active'],Fitness & Instruction
+523,fitnessequipment,,,['shopping'],Fitness/Exercise Equipment
+524,flatbread,,"['DE', 'DK', 'PL', 'AT', 'CH']",['restaurants'],Flatbread
+525,fleamarkets,,,['shopping'],Flea Markets
+526,flemish,,['FR'],['belgian'],Flemish
+527,flightinstruction,,,['specialtyschools'],Flight Instruction
+528,floatspa,"['IT', 'JP', 'FR']",,['health'],Float Spa
+529,flooring,,,['homeservices'],Flooring
+530,floraldesigners,['FR'],,['eventservices'],Floral Designers
+531,florists,,,['flowers'],Florists
+532,flowers,,,['shopping'],Flowers & Gifts
+533,flyboarding,,,['active'],Flyboarding
+534,fondue,"['CZ', 'ES', 'DK']",,['restaurants'],Fondue
+535,food,,,[],Food
+536,food_court,"['TR', 'FR', 'FI', 'TW']",,['restaurants'],Food Court
+537,foodbanks,,,['nonprofit'],Food Banks
+538,fooddeliveryservices,,,['food'],Food Delivery Services
+539,foodsafety,,"['SG', 'US', 'BR', 'PT']",['specialtyschools'],Food Safety Training
+540,foodstands,,,['restaurants'],Food Stands
+541,foodtours,,,['tours'],Food Tours
+542,foodtrucks,['SG'],,['food'],Food Trucks
+543,football,,,['active'],Soccer
+544,footcare,,"['PH', 'DE', 'IE', 'MY', 'IT', 'GB', 'CA', 'CH', 'SG', 'JP', 'BE', 'NL', 'AT', 'NZ', 'AU']",['beautysvc'],Foot Care
+545,forestry,,"['NO', 'SE', 'DK', 'CA', 'FI', 'CZ']",['localservices'],Forestry
+546,formalwear,"['PH', 'MY', 'IT', 'HK', 'CH', 'JP', 'SE', 'TW', 'FI', 'TR']",,['fashion'],Formal Wear
+547,foundationrepair,"['CH', 'DE', 'AT']",,['homeservices'],Foundation Repair
+548,framing,,,['artsandcrafts'],Framing
+549,franconian,,['DE'],['german'],Franconian
+550,freediving,,,['diving'],Free Diving
+551,freiduria,,"['CL', 'MX', 'ES', 'AR']",['restaurants'],Freiduria
+552,french,,,['restaurants'],French
+553,friterie,,"['FR', 'NL', 'IT', 'PL', 'AU', 'BE']",['food'],Friterie
+554,friulan,,['IT'],['italian'],Friulan
+555,frozenfood,,"['FR', 'IT', 'GB', 'SG', 'ES', 'BE']",['gourmet'],Frozen Food
+556,fueldocks,,"['NO', 'MX', 'SE', 'DK', 'US', 'ES']",['auto'],Fuel Docks
+557,funeralservices,,,['localservices'],Funeral Services & Cemeteries
+558,funfair,,"['NO', 'DE', 'DK', 'CH', 'CZ', 'BE', 'NL', 'AT', 'PT']",['festivals'],Fun Fair
+559,furclothing,,,['fashion'],Fur Clothing
+560,furniture,,,['homeandgarden'],Furniture Stores
+561,furnitureassembly,['CZ'],,['homeservices'],Furniture Assembly
+562,furniturerepair,,,['localservices'],Furniture Repair
+563,fuzhou,,"['HK', 'SG', 'TW', 'MY']",['chinese'],Fuzhou
+564,galician,,"['ES', 'PT']",['restaurants'],Galician
+565,galleries,,,"['shopping', 'arts']",Art Galleries
+566,gamemeat,"['PH', 'MY', 'HK', 'CA', 'BR', 'JP', 'MX', 'TW', 'PT', 'CL', 'FI', 'TR', 'AR']",,['restaurants'],Game Meat
+567,gametruckrental,,"['MX', 'US', 'CL', 'CA', 'AR']",['eventservices'],Game Truck Rental
+568,garage_door_services,"['PH', 'DE', 'MY', 'HK', 'CH', 'JP', 'SE', 'TW', 'PL', 'AT', 'CL', 'AR']",,['homeservices'],Garage Door Services
+569,gardeners,,,['homeservices'],Gardeners
+570,gardening,,,['homeandgarden'],Nurseries & Gardening
+571,gardens,,,['arts'],Botanical Gardens
+572,gastroenterologist,,,['physicians'],Gastroenterologist
+573,gastropubs,,,['restaurants'],Gastropubs
+574,gaybars,,,['bars'],Gay Bars
+575,gelato,,"['PH', 'NO', 'DK', 'IT', 'CZ', 'SG', 'SE', 'US', 'PL', 'PT', 'AU']",['food'],Gelato
+576,gemstonesandminerals,,,['shopping'],Gemstones & Minerals
+577,general_litigation,,,['lawyers'],General Litigation
+578,generaldentistry,,,['dentists'],General Dentistry
+579,generalfestivals,,"['DE', 'AT', 'PT', 'CH', 'JP']",['festivals'],General Festivals
+580,generatorinstallrepair,,['US'],['localservices'],Generator Installation/Repair
+581,geneticists,,,['physicians'],Geneticists
+582,georgian,,"['DE', 'GB', 'CH', 'CZ', 'US', 'PL', 'AT', 'FI']",['restaurants'],Georgian
+583,german,,,['restaurants'],German
+584,gerontologist,,,['physicians'],Gerontologists
+585,gestorias,,"['CL', 'MX', 'ES', 'AR']",['localservices'],Gestorias
+586,giblets,,['TR'],['restaurants'],Giblets
+587,giftshops,"['TR', 'SG', 'PL']",,['flowers'],Gift Shops
+588,glassandmirrors,['TR'],,['homeservices'],Glass & Mirrors
+589,glassblowing,"['CH', 'DE', 'AT']",,['artclasses'],Glass Blowing
+590,gliding,,"['NO', 'DE', 'FR', 'CH', 'CZ', 'SE', 'PL', 'AT', 'PT']",['active'],Gliding
+591,gluhwein,,"['DE', 'SE', 'AT', 'CH', 'CZ']",['food'],Mulled Wine
+592,gluten_free,,,['restaurants'],Gluten-Free
+593,gokarts,,,['active'],Go Karts
+594,goldbuyers,,"['DE', 'FR', 'IT', 'CA', 'BR', 'CH', 'BE', 'SE', 'US', 'NL', 'AT', 'PT', 'ES']",['shopping'],Gold Buyers
+595,golf,,,['active'],Golf
+596,golfcartdealers,,"['CA', 'US']",['auto'],Golf Cart Dealers
+597,golfcartrentals,,['US'],['eventservices'],Golf Cart Rentals
+598,golfequipment,,"['DE', 'US', 'NL', 'CA', 'AU', 'BE']",['sportgoods'],Golf Equipment
+599,golflessons,"['PH', 'DE', 'IE', 'MY', 'HK', 'CA', 'BR', 'CH', 'SG', 'TW', 'AT', 'FI', 'TR']",,['fitness'],Golf Lessons
+600,gourmet,,,['food'],Specialty Food
+601,gozleme,,['TR'],['turkish'],Gozleme
+602,graphicdesign,,,['professional'],Graphic Design
+603,greek,,,['restaurants'],Greek
+604,grillingequipment,,,['homeandgarden'],Grilling Equipment
+605,grillservices,,"['DE', 'BR', 'CH', 'MX', 'US', 'PL', 'AT', 'PT', 'CL', 'ES', 'AR']",['localservices'],Grill Services
+606,grocery,,,['food'],Grocery
+607,groomer,,,['petservices'],Pet Groomers
+608,groutservices,['FR'],,['homeservices'],Grout Services
+609,guamanian,"['MX', 'FR', 'PL', 'CL', 'TR', 'JP', 'AR']",,['restaurants'],Guamanian
+610,guesthouses,['SG'],,['hotelstravel'],Guest Houses
+611,guitarstores,,,['musicinstrumentservices'],Guitar Stores
+612,gun_ranges,"['CH', 'SG', 'AT', 'BE']",,['active'],Gun/Rifle Ranges
+613,guns_and_ammo,,"['PH', 'DE', 'MY', 'CA', 'CH', 'MX', 'US', 'PL', 'AT', 'PT', 'CL', 'ES', 'AR']",['shopping'],Guns & Ammo
+614,gunsmith,"['DE', 'HK', 'BR', 'CH', 'JP', 'BE', 'TW', 'NL', 'AT', 'TR']",,['localservices'],Gunsmith
+615,gutterservices,"['MX', 'AR']",,['homeservices'],Gutter Services
+616,gymnastics,,"['NO', 'DK', 'CA', 'BR', 'CZ', 'MX', 'US', 'NZ', 'PT']",['active'],Gymnastics
+617,gyms,,,['fitness'],Gyms
+618,gyudon,,['JP'],['donburi'],Gyudon
+619,habilitativeservices,,,['health'],Habilitative Services
+620,hainan,,"['PH', 'US', 'MY', 'HK', 'SG']",['chinese'],Hainan
+621,hair,,,['beautysvc'],Hair Salons
+622,hair_extensions,"['NL', 'PL', 'HK', 'TR', 'BE']",,"['hair', 'beautysvc']",Hair Extensions
+623,hairloss,,,['beautysvc'],Hair Loss Centers
+624,hairremoval,,,['beautysvc'],Hair Removal
+625,hairstylists,,"['NO', 'GB', 'CA', 'CZ', 'SG', 'BE', 'SE', 'TW', 'US', 'PL', 'AT', 'PT', 'CL', 'AU', 'IE', 'DE', 'DK', 'HK', 'CH', 'MX', 'NL', 'ES', 'AR']",['hair'],Hair Stylists
+626,haitian,,"['CA', 'US']",['caribbean'],Haitian
+627,hakka,,"['PH', 'TW', 'MY', 'HK', 'CA', 'SG']",['chinese'],Hakka
+628,halal,"['TR', 'PT']",,['restaurants'],Halal
+629,halfwayhouses,,['US'],['health'],Halfway Houses
+630,halotherapy,['FR'],,['health'],Halotherapy
+631,handball,"['PH', 'GB', 'CA', 'CZ', 'SG', 'TW', 'US', 'PT', 'AU', 'DE', 'IE', 'MY', 'HK', 'MX', 'NZ', 'TR']",,['active'],Handball
+632,handrolls,,"['BR', 'TW']",['japanese'],Hand Rolls
+633,handyman,,,['homeservices'],Handyman
+634,hanggliding,"['PH', 'DE', 'IE', 'DK', 'MY', 'GB', 'HK', 'CA', 'CZ', 'SG', 'TW', 'NL', 'PL', 'FI', 'TR']",,['active'],Hang Gliding
+635,hardware,,,['homeandgarden'],Hardware Stores
+636,hats,"['IE', 'GB', 'HK', 'CH', 'JP', 'SE', 'PL', 'AT', 'TR']",,['fashion'],Hats
+637,hauntedhouses,,,['arts'],Haunted Houses
+638,hawaiian,"['DK', 'PT', 'CZ', 'AU', 'TR']",,['restaurants'],Hawaiian
+639,hawkercentre,,"['PH', 'MY', 'HK', 'SG', 'MX', 'TW', 'CL', 'AR']",['food'],Hawker Centre
+640,hazardouswastedisposal,"['PH', 'DE', 'FR', 'MY', 'HK', 'BR', 'CH', 'CZ', 'JP', 'SE', 'AT', 'PT', 'TR']",,['localservices'],Hazardous Waste Disposal
+641,headshops,,,['shopping'],Head Shops
+642,health,,,[],Health & Medical
+643,healthcoach,,,['health'],Health Coach
+644,healthinsurance,,"['DE', 'FR', 'BR', 'CH', 'CZ', 'SG', 'BE', 'MX', 'US', 'PL', 'AT', 'NZ', 'PT', 'AU']",['health'],Health Insurance Offices
+645,healthmarkets,,,['gourmet'],Health Markets
+646,healthretreats,"['MX', 'AR']",,['hotelstravel'],Health Retreats
+647,healthtrainers,,,['fitness'],Trainers
+648,hearing_aids,,"['NO', 'DE', 'FR', 'DK', 'BR', 'CH', 'CZ', 'MX', 'PL', 'AT', 'PT', 'CL', 'FI', 'ES', 'AR']",['health'],Hearing Aids
+649,hearingaidproviders,"['DE', 'HK', 'CH', 'CZ', 'JP', 'MX', 'SE', 'AT', 'CL', 'TR', 'ES', 'AR']",,['health'],Hearing Aid Providers
+650,henghwa,,"['HK', 'SG', 'TW', 'MY']",['chinese'],Henghwa
+651,hennaartists,,"['NO', 'DE', 'FR', 'DK', 'IT', 'CA', 'BR', 'CH', 'US', 'AT', 'NZ', 'AU']",['eventservices'],Henna Artists
+652,hepatologists,,,['physicians'],Hepatologists
+653,herbalshops,,,['health'],Herbal Shops
+654,herbsandspices,,,['gourmet'],Herbs & Spices
+655,hessian,,['DE'],['german'],Hessian
+656,heuriger,,['AT'],['restaurants'],Heuriger
+657,hifi,['CZ'],,['shopping'],High Fidelity Audio Equipment
+658,highschools,,,['education'],Middle Schools & High Schools
+659,hiking,,,['active'],Hiking
+660,himalayan,,,['restaurants'],Himalayan/Nepalese
+661,hindu_temples,,,['religiousorgs'],Hindu Temples
+662,historicaltours,,,['tours'],Historical Tours
+663,hkcafe,,"['HK', 'CA', 'TW', 'US']",['restaurants'],Hong Kong Style Cafe
+664,hobbyshops,,,['shopping'],Hobby Shops
+665,hockeyequipment,,,['sportgoods'],Hockey Equipment
+666,hokkien,,"['HK', 'SG', 'TW', 'MY']",['chinese'],Hokkien
+667,holidaydecorations,,,['homeandgarden'],Holiday Decorations
+668,home_inspectors,,,['homeservices'],Home Inspectors
+669,home_organization,,"['CA', 'US']",['homeservices'],Home Organization
+670,homeandgarden,,,['shopping'],Home & Garden
+671,homeappliancerepair,,,['localservices'],Appliances & Repair
+672,homeautomation,,,['homeservices'],Home Automation
+673,homecleaning,,,['homeservices'],Home Cleaning
+674,homedecor,,,['homeandgarden'],Home Decor
+675,homedevelopers,"['MX', 'IT', 'CL', 'BR', 'AR']",,['realestate'],Home Developers
+676,homeenergyauditors,,"['PH', 'NO', 'GB', 'CA', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'PT', 'FI', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'CH', 'NL', 'NZ', 'ES']",['homeservices'],Home Energy Auditors
+677,homehealthcare,,,['health'],Home Health Care
+678,homeinsurance,,,['insurance'],Home & Rental Insurance
+679,homelessshelters,,['US'],['nonprofit'],Homeless Shelters
+680,homemadefood,,['TR'],['turkish'],Homemade Food
+681,homenetworkinstall,,"['NO', 'DE', 'DK', 'BR', 'CH', 'CZ', 'BE', 'SE', 'US', 'NL', 'AT', 'PT', 'FI', 'ES']",['homeservices'],Home Network Installation
+682,homeopathic,"['IE', 'GB', 'HK', 'CA', 'SG', 'TW', 'US', 'NZ', 'AU', 'TR']",,['physicians'],Homeopathic
+683,homeownerassociation,,"['CZ', 'PL', 'US']",['realestate'],Homeowner Association
+684,homeservices,,,[],Home Services
+685,homestaging,"['FR', 'PT', 'BR', 'CZ', 'ES']",,['realestate'],Home Staging
+686,hometheatreinstallation,"['CZ', 'DK']",,['homeservices'],Home Theatre Installation
+687,homewindowtinting,,"['IE', 'GB', 'CA', 'SG', 'BE', 'US', 'NL', 'PT', 'NZ', 'AU']",['homeservices'],Home Window Tinting
+688,honduran,"['TR', 'JP']",,['restaurants'],Honduran
+689,honey,,"['DE', 'FR', 'IT', 'SE', 'US', 'PL', 'FI', 'TR']",['food'],Honey
+690,hookah_bars,"['SG', 'AU']",,['bars'],Hookah Bars
+691,horse_boarding,,"['NO', 'DE', 'IE', 'FR', 'DK', 'GB', 'CA', 'CZ', 'SE', 'US', 'NZ', 'AU']",['pets'],Horse Boarding
+692,horsebackriding,,,['active'],Horseback Riding
+693,horsequipment,"['PH', 'MY', 'HK', 'CH', 'JP', 'TW', 'NZ', 'TR']",,['shopping'],Horse Equipment Shops
+694,horseracing,"['PH', 'IE', 'FR', 'MY', 'IT', 'GB', 'CA', 'BR', 'SG', 'NZ']",,['active'],Horse Racing
+695,horumon,,"['JP', 'TW']",['japanese'],Horumon
+696,hospice,,,['health'],Hospice
+697,hospitalists,"['DE', 'IT', 'AT', 'CH', 'TR', 'JP']",,['physicians'],Hospitalists
+698,hospitals,,,['health'],Hospitals
+699,hostels,,,['hotelstravel'],Hostels
+700,hot_air_balloons,"['SG', 'CA', 'BR', 'NZ']",,['active'],Hot Air Balloons
+701,hotdog,,,['restaurants'],Hot Dogs
+702,hotdogs,,,['restaurants'],Fast Food
+703,hotel_bar,,"['NO', 'SE', 'DK', 'PT', 'FI', 'BR']",['bars'],Hotel bar
+704,hotels,,,"['eventservices', 'hotelstravel']",Hotels
+705,hotelstravel,,,[],Hotels & Travel
+706,hotpot,,"['PH', 'FR', 'MY', 'HK', 'CA', 'BR', 'SG', 'JP', 'SE', 'TW', 'US']",['restaurants'],Hot Pot
+707,hotsprings,,"['DE', 'BR', 'CH', 'CZ', 'JP', 'TW', 'US', 'AT', 'NZ', 'AU']",['beautysvc'],Hot Springs
+708,hottubandpool,,,['homeandgarden'],Hot Tub & Pool
+709,housesitters,,"['DE', 'IT', 'CA', 'CH', 'US', 'PL', 'AT', 'AU']",['homeservices'],House Sitters
+710,housingcooperatives,"['IT', 'CL', 'MX', 'AR']",,['realestate'],Housing Cooperatives
+711,hunan,,"['FR', 'TW', 'MY', 'HK', 'SG']",['chinese'],Hunan
+712,hungarian,,,['restaurants'],Hungarian
+713,huntingfishingsupplies,,,['sportgoods'],Hunting & Fishing Supplies
+714,hvac,,,['homeservices'],Heating & Air Conditioning/HVAC
+715,hybridcarrepair,,"['IE', 'GB', 'CZ', 'SG', 'SE', 'US', 'PL', 'NZ', 'AU']",['auto'],Hybrid Car Repair
+716,hydrojetting,,"['CZ', 'US']",['localservices'],Hydro-jetting
+717,hydroponics,,,['gardening'],Hydroponics
+718,hydrotherapy,,,['health'],Hydrotherapy
+719,hypnosis,"['HK', 'NL', 'TR']",,['health'],Hypnosis/Hypnotherapy
+720,iberian,,"['CA', 'US', 'PT']",['restaurants'],Iberian
+721,icecream,,,['food'],Ice Cream & Frozen Yogurt
+722,icedelivery,,,['localservices'],Ice Delivery
+723,immigrationlawyers,,,['lawyers'],Immigration Law
+724,immunodermatologists,"['JP', 'FR']",,['physicians'],Immunodermatologists
+725,importedfood,,,['food'],Imported Food
+726,indonesian,"['MX', 'ES']",,['restaurants'],Indonesian
+727,indoor_playcenter,"['PH', 'IE', 'MY', 'HK', 'BR', 'CH', 'SG', 'MX', 'TW', 'PL', 'AT', 'CL', 'FI', 'TR', 'AR']",,['active'],Indoor Playcentre
+728,indoorlandscaping,['IT'],,['professional'],Indoor Landscaping
+729,indpak,,,['restaurants'],Indian
+730,infectiousdisease,,,['physicians'],Infectious Disease Specialists
+731,installmentloans,,['US'],['financialservices'],Installment Loans
+732,insulationinstallation,,,['homeservices'],Insulation Installation
+733,insurance,,,['financialservices'],Insurance
+734,interiordesign,,,['homeservices'],Interior Design
+735,interlocksystems,,['US'],['auto'],Interlock Systems
+736,internalmed,['BR'],,['physicians'],Internal Medicine
+737,international,"['PH', 'MY', 'US', 'IT', 'FI', 'TR']",,['restaurants'],International
+738,internetbooth,,"['MX', 'IT', 'CL', 'BR', 'ES', 'AR']",['localservices'],Internet Booths & Calling Centers
+739,internetcafe,,,['food'],Internet Cafes
+740,intervaltraininggyms,,['US'],['gyms'],Interval Training Gyms
+741,intlgrocery,,,['food'],International Grocery
+742,investing,,,['financialservices'],Investing
+743,iplaw,,"['CZ', 'US']",['lawyers'],IP & Internet Law
+744,irish,,,['restaurants'],Irish
+745,irish_pubs,,,['bars'],Irish Pub
+746,irrigation,,['US'],['homeservices'],Irrigation
+747,island_pub,,['SE'],['restaurants'],Island Pub
+748,isps,,,"['professional', 'homeservices']",Internet Service Providers
+749,israeli,,"['CH', 'CZ', 'DE', 'AT']",['restaurants'],Israeli
+750,italian,,,['restaurants'],Italian
+751,itservices,,,['localservices'],IT Services & Computer Repair
+752,ivhydration,,['US'],['health'],IV Hydration
+753,izakaya,,"['HK', 'BR', 'SG', 'JP', 'MX', 'TW', 'US', 'NZ', 'AU']",['japanese'],Izakaya
+754,jailsandprisons,,,['publicservicesgovt'],Jails & Prisons
+755,jaliscan,,['MX'],['mexican'],Jaliscan
+756,japacurry,,"['TW', 'US', 'HK', 'SG', 'JP']",['japanese'],Japanese Curry
+757,japanese,,,['restaurants'],Japanese
+758,jazzandblues,,,"['nightlife', 'arts']",Jazz & Blues
+759,jetskis,,,['active'],Jet Skis
+760,jewelry,,,['shopping'],Jewelry
+761,jewelryrepair,"['DE', 'IE', 'GB', 'HK', 'CH', 'SG', 'SE', 'TW', 'AT', 'NZ', 'FI']",,['localservices'],Jewelry Repair
+762,jewish,,"['IT', 'DE', 'PL']",['restaurants'],Jewish
+763,jpsweets,,['JP'],['food'],Japanese Sweets
+764,juicebars,,,['food'],Juice Bars & Smoothies
+765,junkremovalandhauling,,,['localservices'],Junk Removal & Hauling
+766,junkyards,,"['NO', 'GB', 'CA', 'BR', 'CZ', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'AU', 'IE', 'DE', 'FR', 'DK', 'NL', 'NZ']",['localservices'],Junkyards
+767,kaiseki,,"['JP', 'TW']",['japanese'],Kaiseki
+768,karaoke,,,['nightlife'],Karaoke
+769,karaokerental,,,['partyequipmentrentals'],Karaoke Rental
+770,karate,,,['martialarts'],Karate
+771,kebab,,,['restaurants'],Kebab
+772,kickboxing,,,['martialarts'],Kickboxing
+773,kids_activities,['SG'],,['active'],Kids Activities
+774,kidshairsalons,,,['hair'],Kids Hair Salons
+775,kimonos,,['JP'],['fashion'],Kimonos
+776,kiosk,"['IE', 'FR', 'IT', 'GB', 'HK', 'CA', 'BR', 'SG', 'US', 'NZ']",,"['shopping', 'food']",Kiosk
+777,kitchenandbath,,,['homeandgarden'],Kitchen & Bath
+778,kitchenincubators,,"['GB', 'US']",['realestate'],Kitchen Incubators
+779,kitchensupplies,,,['kitchenandbath'],Kitchen Supplies
+780,kiteboarding,"['HK', 'CZ', 'IT']",,['active'],Kiteboarding
+781,knifesharpening,,,['localservices'],Knife Sharpening
+782,knittingsupplies,,,['shopping'],Knitting Supplies
+783,kombucha,,['US'],['food'],Kombucha
+784,kopitiam,,"['SG', 'MY']",['restaurants'],Kopitiam
+785,korean,,,['restaurants'],Korean
+786,kosher,"['TR', 'PT']",,['restaurants'],Kosher
+787,kurdish,,"['NO', 'SE']",['restaurants'],Kurdish
+788,kushikatsu,,['JP'],['japanese'],Kushikatsu
+789,laboratorytesting,,"['FR', 'IT', 'CA', 'BR', 'CZ', 'BE', 'MX', 'US', 'PL', 'PT', 'CL', 'AU', 'ES', 'AR']",['diagnosticservices'],Laboratory Testing
+790,lactationservices,,"['FR', 'US', 'IT', 'PT', 'BR', 'BE']",['health'],Lactation Services
+791,lahmacun,,['TR'],['turkish'],Lahmacun
+792,lakes,,,['active'],Lakes
+793,lancenters,"['PH', 'IT', 'MY']",,['arts'],LAN Centers
+794,landmarks,,,['publicservicesgovt'],Landmarks & Historical Buildings
+795,landscapearchitects,,,['homeservices'],Landscape Architects
+796,landscaping,,,['homeservices'],Landscaping
+797,landsurveying,['JP'],,['realestatesvcs'],Land Surveying
+798,language_schools,,,['specialtyschools'],Language Schools
+799,laos,,['AU'],['restaurants'],Laos
+800,laotian,['CZ'],,['restaurants'],Laotian
+801,laser_hair_removal,,,['hairremoval'],Laser Hair Removal
+802,laserlasikeyes,,,['health'],Laser Eye Surgery/Lasik
+803,lasertag,"['IE', 'BR']",,['active'],Laser Tag
+804,latin,,,['restaurants'],Latin American
+805,laundromat,,,['laundryservices'],Laundromat
+806,laundryservices,,,['localservices'],Laundry Services
+807,lawn_bowling,,"['NO', 'SE', 'PT', 'NZ', 'FI', 'AU']",['active'],Lawn Bowling
+808,lawnservices,,"['US', 'NL', 'CA', 'BR', 'BE']",['landscaping'],Lawn Services
+809,lawyers,,,['professional'],Lawyers
+810,leather,,,['fashion'],Leather Goods
+811,lebanese,"['HK', 'JP', 'AR']",,['mideastern'],Lebanese
+812,legalservices,"['PH', 'DE', 'IE', 'MY', 'GB', 'HK', 'CH', 'MX', 'SE', 'TW', 'AT', 'CL', 'FI', 'ES', 'AR']",,['professional'],Legal Services
+813,libraries,,,['publicservicesgovt'],Libraries
+814,liceservices,"['DE', 'HK', 'CZ', 'JP', 'MX', 'CL', 'FI', 'AR']",,['health'],Lice Services
+815,lifecoach,,,['professional'],Life Coach
+816,lifeinsurance,"['PH', 'DE', 'FR', 'MY', 'HK', 'CA', 'CH', 'TW', 'AT', 'PT', 'FI']",,['insurance'],Life Insurance
+817,lighting,,,['homeservices'],Lighting Fixtures & Equipment
+818,lightingstores,,,['homeandgarden'],Lighting Stores
+819,ligurian,,"['IT', 'FR']",['italian'],Ligurian
+820,limos,,,['transport'],Limos
+821,linens,,"['NO', 'DE', 'FR', 'DK', 'IT', 'CH', 'CZ', 'BE', 'AT', 'PT']",['homeandgarden'],Linens
+822,lingerie,,,['fashion'],Lingerie
+823,livestocksupply,,,['shopping'],Livestock Feed & Supply
+824,localfishstores,,"['PH', 'NO', 'GB', 'CA', 'CZ', 'SG', 'JP', 'BE', 'SE', 'US', 'PL', 'AT', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'IT', 'CH', 'NL', 'NZ', 'ES']",['petstore'],Local Fish Stores
+825,localflavor,,,[],Local Flavor
+826,localservices,,,[],Local Services
+827,locksmiths,,,['homeservices'],Keys & Locksmiths
+828,lounges,,,['bars'],Lounges
+829,luggage,,,['shopping'],Luggage
+830,luggagestorage,,,['travelservices'],Luggage Storage
+831,lumbard,,['IT'],['italian'],Lumbard
+832,lyonnais,,"['FR', 'BE']",['restaurants'],Lyonnais
+833,macarons,"['PH', 'IT', 'MY']",,['gourmet'],Macarons
+834,machinerental,,,['localservices'],Machine & Tool Rental
+835,machineshops,,['US'],['localservices'],Machine Shops
+836,madeira,,['PT'],['portuguese'],Madeira
+837,magicians,"['SG', 'TR', 'FI', 'SE']",,['eventservices'],Magicians
+838,mags,,,['media'],Newspapers & Magazines
+839,mahjong,,"['HK', 'JP']",['arts'],Mah Jong Halls
+840,mailboxcenters,,['US'],['localservices'],Mailbox Centers
+841,makerspaces,['IT'],,['arts'],Makerspaces
+842,makeupartists,,,['beautysvc'],Makeup Artists
+843,malaysian,"['CZ', 'TR', 'ES', 'PT']",,['restaurants'],Malaysian
+844,mamak,,"['AU', 'MY']",['malaysian'],Mamak
+845,marchingbands,,"['NO', 'DE', 'GB', 'CH', 'SE', 'AT', 'PT', 'TR']",['arts'],Marching Bands
+846,marinas,,"['NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'SE', 'US', 'AT', 'CL', 'AU', 'DE', 'IE', 'FR', 'DK', 'IT', 'CH', 'MX', 'NL', 'NZ', 'TR', 'ES', 'AR']",['auto'],Marinas
+847,marketing,,,['professional'],Marketing
+848,markets,,,['gourmet'],Fruits & Veggies
+849,marketstalls,,"['NO', 'DE', 'IE', 'DK', 'IT', 'GB', 'CH', 'CZ', 'PL', 'AT', 'PT']",['shopping'],Market Stalls
+850,martialarts,,,['fitness'],Martial Arts
+851,masonry_concrete,"['IE', 'NL', 'GB', 'NZ', 'BR', 'SG', 'BE']",,['homeservices'],Masonry/Concrete
+852,massage,,,['beautysvc'],Massage
+853,massage_schools,,,['specialtyschools'],Massage Schools
+854,massage_therapy,"['PH', 'CZ', 'SG', 'SE', 'TW', 'PL', 'AT', 'FI', 'DE', 'IE', 'FR', 'MY', 'HK', 'CH', 'NZ', 'TR']",,['health'],Massage Therapy
+855,massmedia,,,[],Mass Media
+856,matchmakers,,"['NO', 'DE', 'FR', 'DK', 'CA', 'CH', 'JP', 'MX', 'US', 'PL', 'PT', 'CL', 'AU', 'ES', 'AR']",['professional'],Matchmakers
+857,materialeelettrico,,"['MX', 'IT', 'CL', 'ES', 'AR']",['homeandgarden'],Materiale elettrico
+858,maternity,,,['fashion'],Maternity Wear
+859,mattresses,,,['homeandgarden'],Mattresses
+860,mauritius,"['NO', 'DE', 'DK', 'BR', 'CH', 'JP', 'MX', 'PL', 'AT', 'NZ', 'CL', 'AU', 'TR', 'AR']",,['french'],Mauritius
+861,meaderies,,"['DE', 'CH', 'MX', 'US', 'PL', 'AT', 'CL', 'ES', 'AR']",['food'],Meaderies
+862,meatballs,,"['NL', 'TR', 'FR', 'BE']",['restaurants'],Meatballs
+863,meats,,,['gourmet'],Meat Shops
+864,medcenters,,,['health'],Medical Centers
+865,media,,,['shopping'],"Books, Mags, Music & Video"
+866,mediators,,"['IE', 'DE', 'IT', 'GB', 'CA', 'CH', 'SG', 'BE', 'US', 'NL', 'AT', 'NZ', 'AU']",['professional'],Mediators
+867,medicalfoot,"['PH', 'BR', 'CZ', 'JP', 'US', 'PL', 'AT', 'PT', 'CL', 'FI', 'MY', 'IT', 'MX', 'TR', 'ES', 'AR']",,['health'],Medical Foot Care
+868,medicallaw,,,['lawyers'],Medical Law
+869,medicalspa,,,"['health', 'beautysvc']",Medical Spas
+870,medicalsupplies,,,['shopping'],Medical Supplies
+871,medicaltransportation,,"['NO', 'DE', 'FR', 'DK', 'IT', 'BR', 'CH', 'SG', 'BE', 'US', 'NL', 'AT', 'PT', 'AU']",['health'],Medical Transportation
+872,meditationcenters,,,['fitness'],Meditation Centers
+873,mediterranean,,,['restaurants'],Mediterranean
+874,memorycare,,,['health'],Memory Care
+875,menscloth,,,['fashion'],Men's Clothing
+876,menshair,,"['NO', 'DK', 'CZ', 'BE', 'MX', 'US', 'NL', 'PT', 'CL', 'AU', 'ES', 'AR']",['hair'],Men's Hair Salons
+877,metaldetectorservices,,,['localservices'],Metal Detector Services
+878,metalfabricators,"['MX', 'SE', 'AR']",,['localservices'],Metal Fabricators
+879,metrostations,,,['transport'],Metro Stations
+880,mexican,,,['restaurants'],Mexican
+881,mideastern,['BR'],,['restaurants'],Middle Eastern
+882,midwives,,,['health'],Midwives
+883,militarysurplus,,,['shopping'],Military Surplus
+884,milkbars,,"['AU', 'PL']",['restaurants'],Milk Bars
+885,milkshakebars,,['GB'],['food'],Milkshake Bars
+886,minho,,['PT'],['portuguese'],Minho
+887,mini_golf,['IT'],,['active'],Mini Golf
+888,mistingsystemservices,,['US'],['localservices'],Misting System Services
+889,mobile_home_repair,,"['SE', 'US', 'NL', 'CA', 'BE']",['homeservices'],Mobile Home Repair
+890,mobiledentrepair,,"['CA', 'US']",['auto'],Mobile Dent Repair
+891,mobilehomes,['CZ'],,['realestate'],Mobile Home Dealers
+892,mobileparks,,['US'],['realestate'],Mobile Home Parks
+893,mobilephonerepair,,,['itservices'],Mobile Phone Repair
+894,mobilephones,,,['shopping'],Mobile Phones
+895,mobilityequipment,,"['CA', 'US']",['auto'],Mobility Equipment Sales & Services
+896,modern_australian,,['AU'],['restaurants'],Modern Australian
+897,modern_european,,,['restaurants'],Modern European
+898,mohels,,['US'],['eventservices'],Mohels
+899,mongolian,"['TR', 'FI', 'ES', 'PT']",,['restaurants'],Mongolian
+900,montessori,,,['education'],Montessori Schools
+901,moroccan,['TR'],,['restaurants'],Moroccan
+902,mortgagebrokers,"['ES', 'BR', 'DK']",,['realestate'],Mortgage Brokers
+903,mortgagelenders,"['DE', 'FR', 'AT', 'CH', 'TR']",,['financialservices'],Mortgage Lenders
+904,mortuaryservices,['IT'],,['funeralservices'],Mortuary Services
+905,mosques,,,['religiousorgs'],Mosques
+906,motodealers,,"['SE', 'TW', 'US', 'IT', 'ES']",['auto'],Motorsport Vehicle Dealers
+907,motorcycle_rental,,"['NO', 'DE', 'FR', 'IT', 'BR', 'CZ', 'SG', 'MX', 'US', 'NZ', 'PT', 'FI', 'AU', 'ES']",['hotelstravel'],Motorcycle Rental
+908,motorcycledealers,,,['auto'],Motorcycle Dealers
+909,motorcyclepartsandsupplies,,,['autopartssupplies'],Motorcycle Parts & Supplies
+910,motorcyclerepair,,,['auto'],Motorcycle Repair
+911,motorcyclinggear,"['IE', 'CA', 'GB', 'NZ']",,['shopping'],Motorcycle Gear
+912,motorepairs,,"['SE', 'TW', 'US', 'IT', 'ES']",['auto'],Motorsport Vehicle Repairs
+913,mountainbiking,,,['active'],Mountain Biking
+914,mountainhuts,,"['NO', 'DE', 'FR', 'IT', 'CH', 'CZ', 'SE', 'US', 'PL', 'AT', 'NZ', 'CL', 'ES', 'AR']",['hotels'],Mountain Huts
+915,movers,,,['homeservices'],Movers
+916,movietheaters,,,['arts'],Cinema
+917,muaythai,,,['martialarts'],Muay Thai
+918,municipality,,['US'],['publicservicesgovt'],Municipality
+919,museums,,,['arts'],Museums
+920,musicalinstrumentsandteachers,,,['shopping'],Musical Instruments & Teachers
+921,musicians,['TR'],,['eventservices'],Musicians
+922,musicinstrumentservices,,,['localservices'],Musical Instrument Services
+923,musicproduction,,,['professional'],Music Production Services
+924,musicvenues,,,"['nightlife', 'arts']",Music Venues
+925,musicvideo,,,['media'],Music & DVDs
+926,mystics,['FR'],,['psychic_astrology'],Mystics
+927,nailtechnicians,"['DE', 'FR', 'AT', 'BR', 'CH', 'TR', 'JP']",,['othersalons'],Nail Technicians
+928,nannys,"['FI', 'SE']",,['localservices'],Nanny Services
+929,napoletana,,"['CZ', 'IT', 'FR']",['italian'],Napoletana
+930,nasilemak,,"['SG', 'MY']",['food'],Nasi Lemak
+931,naturalgassuppliers,,,['utilities'],Natural Gas Suppliers
+932,naturopathic,,,['physicians'],Naturopathic/Holistic
+933,nephrologists,"['CH', 'DE', 'AT']",,['physicians'],Nephrologists
+934,neurologist,,,['physicians'],Neurologist
+935,neuropathologists,,,['physicians'],Neuropathologists
+936,neurotologists,['JP'],,['physicians'],Neurotologists
+937,newamerican,,"['NO', 'IE', 'SE', 'DK', 'US', 'GB']",['restaurants'],American (New)
+938,newcanadian,,['CA'],['restaurants'],Canadian (New)
+939,newmexican,,['US'],['restaurants'],New Mexican Cuisine
+940,newzealand,,['NZ'],['restaurants'],New Zealand
+941,nicaraguan,"['CL', 'AR']",,['restaurants'],Nicaraguan
+942,nicois,,['FR'],['french'],Nicoise
+943,nightfood,,"['NO', 'SE', 'DK', 'PL', 'TR']",['restaurants'],Night Food
+944,nightlife,,,[],Nightlife
+945,nikkei,,"['MX', 'CL', 'BR', 'ES', 'AR']",['restaurants'],Nikkei
+946,nonprofit,,,['localservices'],Community Service/Non-Profit
+947,noodles,"['CH', 'DE', 'FR', 'AT']",,['restaurants'],Noodles
+948,norcinerie,,['IT'],['restaurants'],Norcinerie
+949,northeasternbrazilian,,['BR'],['brazilian'],Northeastern Brazilian
+950,northernbrazilian,,['BR'],['brazilian'],Northern Brazilian
+951,northerngerman,,['DE'],['german'],Northern German
+952,northernmexican,,['MX'],['mexican'],Northern Mexican
+953,norwegian,,"['NO', 'FR']",['restaurants'],Traditional Norwegian
+954,notaries,['NO'],,['localservices'],Notaries
+955,nudist,,"['NO', 'GB', 'CA', 'BR', 'CZ', 'BE', 'SE', 'US', 'PL', 'AT', 'PT', 'FI', 'AU', 'DE', 'IE', 'FR', 'DK', 'CH', 'NL', 'NZ', 'ES']",['active'],Nudist
+956,nursepractitioner,,,['health'],Nurse Practitioner
+957,nursingschools,,,['specialtyschools'],Nursing Schools
+958,nutritionists,,,['health'],Nutritionists
+959,nyonya,,"['AU', 'MY']",['malaysian'],Nyonya
+960,oaxacan,,['MX'],['mexican'],Oaxacan
+961,obgyn,,,['physicians'],Obstetricians & Gynecologists
+962,observatories,,,['arts'],Observatories
+963,occupationaltherapy,"['PH', 'CZ', 'SG', 'JP', 'SE', 'TW', 'PL', 'AT', 'FI', 'FR', 'MY', 'IT', 'HK', 'CH', 'NZ', 'TR']",,['health'],Occupational Therapy
+964,oden,,"['JP', 'TW']",['japanese'],Oden
+965,officecleaning,,,['professional'],Office Cleaning
+966,officeequipment,,,['shopping'],Office Equipment
+967,officiants,,,['eventservices'],Officiants
+968,oilchange,"['CH', 'DE', 'SE', 'AT']",,['auto'],Oil Change Stations
+969,okinawan,,['JP'],['japanese'],Okinawan
+970,okonomiyaki,,"['JP', 'TW']",['japanese'],Okonomiyaki
+971,oliveoil,,"['DE', 'FR', 'US', 'AT', 'ES', 'BE']",['gourmet'],Olive Oil
+972,oncologist,,,['physicians'],Oncologist
+973,onigiri,,"['JP', 'TW']",['japanese'],Onigiri
+974,opensandwiches,,"['NO', 'TR', 'SE', 'DK']",['restaurants'],Open Sandwiches
+975,opera,,,['arts'],Opera & Ballet
+976,opthamalogists,,,['physicians'],Ophthalmologists
+977,opticians,,,['shopping'],Eyewear & Opticians
+978,optometrists,"['CH', 'DE', 'AT']",,['health'],Optometrists
+979,oralsurgeons,,,['dentists'],Oral Surgeons
+980,organdonorservices,,['US'],['health'],Organ & Tissue Donor Services
+981,organic_stores,,,['food'],Organic Stores
+982,oriental,,"['DE', 'FR', 'PL', 'AT', 'PT', 'CH']",['restaurants'],Oriental
+983,orthodontists,,,['dentists'],Orthodontists
+984,orthopedists,,,['physicians'],Orthopedists
+985,orthotics,,"['NO', 'IE', 'FR', 'DK', 'IT', 'GB', 'BR', 'CZ', 'SG', 'US', 'NZ', 'FI', 'AU', 'ES']",['health'],Orthotics
+986,osteopathicphysicians,,,['physicians'],Osteopathic Physicians
+987,osteopaths,,['AU'],['medcenters'],Osteopaths
+988,othersalons,,,['beautysvc'],Nail Salons
+989,otologists,"['CH', 'DE', 'FR', 'AT']",,['physicians'],Otologists
+990,ottomancuisine,,['TR'],['turkish'],Ottoman Cuisine
+991,outdoorfurniture,,,['homeandgarden'],Outdoor Furniture Stores
+992,outdoorgear,,,['sportgoods'],Outdoor Gear
+993,outdoormovies,['PL'],,['movietheaters'],Outdoor Movies
+994,outdoorpowerequipmentservices,,"['PH', 'NO', 'DE', 'DK', 'MY', 'CA', 'BR', 'CH', 'US', 'PL', 'AT', 'PT']",['localservices'],Outdoor Power Equipment Services
+995,outlet_stores,,,['shopping'],Outlet Stores
+996,oxygenbars,,['US'],['health'],Oxygen Bars
+997,oyakodon,,['JP'],['donburi'],Oyakodon
+998,pachinko,,['JP'],['arts'],Pachinko
+999,packingservices,,"['PH', 'FR', 'MY', 'HK', 'CA', 'CZ', 'SG', 'BE', 'TW', 'US', 'PL']",['homeservices'],Packing Services
+1000,packingsupplies,,"['NO', 'GB', 'CA', 'BR', 'CZ', 'SG', 'JP', 'BE', 'US', 'AT', 'PT', 'AU', 'IE', 'DE', 'FR', 'DK', 'CH', 'NL', 'NZ']",['shopping'],Packing Supplies
+1001,paddleboarding,"['PH', 'MY', 'IT', 'HK', 'JP', 'SE', 'TW', 'TR']",,['active'],Paddleboarding
+1002,painmanagement,,,['physicians'],Pain Management
+1003,paintandsip,,"['HK', 'US']",['arts'],Paint & Sip
+1004,paintball,['SG'],,['active'],Paintball
+1005,painters,,,['homeservices'],Painters
+1006,paintstores,"['PH', 'TW', 'MY', 'PT', 'HK', 'FI', 'TR']",,['homeandgarden'],Paint Stores
+1007,paintyourownpottery,,"['PH', 'DE', 'MY', 'HK', 'CA', 'SG', 'TW', 'US']",['artsandcrafts'],Paint-Your-Own Pottery
+1008,pakistani,,,['restaurants'],Pakistani
+1009,palatine,,['DE'],['german'],Palatine
+1010,panasian,['IT'],,['restaurants'],Pan Asian
+1011,pancakes,,,['breakfast_brunch'],Pancakes
+1012,panzerotti,,['IT'],['food'],Panzerotti
+1013,paragliding,,,['active'],Paragliding
+1014,parasailing,,,['active'],Parasailing
+1015,parentingclasses,,,['specialtyschools'],Parenting Classes
+1016,parking,,,['auto'],Parking
+1017,parklets,,['US'],['localflavor'],Parklets
+1018,parks,,,['active'],Parks
+1019,parma,,['AU'],['restaurants'],Parma
+1020,partybikerentals,,"['DE', 'IE', 'US', 'NL', 'ES', 'BE']",['eventservices'],Party Bike Rentals
+1021,partybusrentals,"['PH', 'IE', 'FR', 'MY', 'IT', 'HK', 'CA', 'CZ', 'JP', 'MX', 'TW', 'PL', 'PT', 'ES']",,['eventservices'],Party Bus Rentals
+1022,partycharacters,,,['eventservices'],Party Characters
+1023,partyequipmentrentals,"['HK', 'FI', 'TW']",,['eventservices'],Party Equipment Rentals
+1024,partysupplies,,,['eventservices'],Party Supplies
+1025,passportvisaservices,,,['travelservices'],Passport & Visa Services
+1026,pastashops,,"['NO', 'IE', 'DK', 'IT', 'GB', 'CZ', 'SG', 'JP', 'BE', 'US', 'NL', 'NZ', 'CL', 'AU', 'AR']",['gourmet'],Pasta Shops
+1027,patentlaw,,,['professional'],Patent Law
+1028,pathologists,,,['physicians'],Pathologists
+1029,patiocoverings,,"['US', 'NL', 'IT', 'PT', 'CA', 'BR', 'BE']",['homeservices'],Patio Coverings
+1030,pawn,"['TR', 'BR']",,['shopping'],Pawn Shops
+1031,paydayloans,"['DE', 'DK', 'IT', 'CH', 'CZ', 'AT', 'NZ', 'ES']",,['financialservices'],Check Cashing/Pay-day Loans
+1032,payroll,,"['IE', 'GB', 'CA', 'CZ', 'SG', 'BE', 'US', 'NL', 'NZ', 'AU', 'TR']",['professional'],Payroll Services
+1033,pediatric_dentists,,,['dentists'],Pediatric Dentists
+1034,pediatricians,,,['physicians'],Pediatricians
+1035,pedicabs,,"['PH', 'NO', 'DE', 'DK', 'MY', 'CH', 'SE', 'US', 'AT']",['transport'],Pedicabs
+1036,pekinese,,"['FR', 'TW', 'MY', 'IT', 'HK', 'SG', 'JP']",['chinese'],Pekinese
+1037,pensions,,"['NO', 'DE', 'DK', 'BR', 'CZ', 'JP', 'SE', 'AT', 'ES']",['hotels'],Pensions
+1038,perfume,"['PL', 'CA', 'FI', 'SG', 'TR']",,"['shopping', 'beautysvc']",Perfume
+1039,periodontists,,,['dentists'],Periodontists
+1040,permanentmakeup,"['SG', 'FI', 'NZ']",,['beautysvc'],Permanent Makeup
+1041,persian,,,['restaurants'],Persian/Iranian
+1042,personal_injury,['CZ'],,['lawyers'],Personal Injury Law
+1043,personal_shopping,"['MX', 'CL', 'BR', 'CZ', 'ES', 'AR']",,['shopping'],Personal Shopping
+1044,personalassistants,,"['CZ', 'US', 'PT']",['professional'],Personal Assistants
+1045,personalcare,,"['NO', 'FR', 'DK', 'BR', 'CZ', 'BE', 'US', 'NL', 'PL', 'FI', 'AU']",['health'],Personal Care Services
+1046,personalchefs,,,['eventservices'],Personal Chefs
+1047,peruvian,"['SG', 'TR', 'PT']",,['restaurants'],Peruvian
+1048,pest_control,,,['localservices'],Pest Control
+1049,pet_sitting,,,['petservices'],Pet Sitting
+1050,pet_training,,,['petservices'],Pet Training
+1051,petadoption,"['MX', 'HK', 'CL', 'JP', 'AR']",,['pets'],Pet Adoption
+1052,petboarding,,,['pet_sitting'],Pet Boarding
+1053,petbreeders,"['PH', 'IE', 'MY', 'HK', 'BR', 'SG', 'MX', 'TW', 'NZ', 'PT', 'CL', 'FI', 'TR', 'AR']",,['petservices'],Pet Breeders
+1054,petcremation,,,['petservices'],Pet Cremation Services
+1055,pethospice,,,['petservices'],Pet Hospice
+1056,petinsurance,,,['petservices'],Pet Insurance
+1057,petphotography,,,['petservices'],Pet Photography
+1058,pets,,,[],Pets
+1059,petservices,,,['pets'],Pet Services
+1060,petstore,,,['pets'],Pet Stores
+1061,pettingzoos,,"['NO', 'DE', 'DK', 'IT', 'GB', 'CH', 'BE', 'US', 'NL', 'AT', 'ES']",['zoos'],Petting Zoos
+1062,pettransport,,"['SE', 'US']",['petservices'],Pet Transportation
+1063,petwasteremoval,,,['petservices'],Pet Waste Removal
+1064,pfcomercial,,['BR'],['restaurants'],PF/Comercial
+1065,pharmacy,['FI'],,['health'],Pharmacy
+1066,phlebologists,,,['physicians'],Phlebologists
+1067,photoboothrentals,"['HK', 'JP', 'FI']",,['eventservices'],Photo Booth Rentals
+1068,photoclasses,,,['specialtyschools'],Photography Classes
+1069,photographers,,,['eventservices'],Photographers
+1070,photographystores,,,['shopping'],Photography Stores & Services
+1071,physicaltherapy,,,['health'],Physical Therapy
+1072,physicians,,,['health'],Doctors
+1073,piadina,,"['IT', 'US']",['food'],Piadina
+1074,pianobars,"['IE', 'BR', 'CH', 'SG', 'PL', 'AT', 'NZ', 'FI', 'AU', 'ES']",,['nightlife'],Piano Bars
+1075,pianoservices,,,['musicinstrumentservices'],Piano Services
+1076,pianostores,,,['musicinstrumentservices'],Piano Stores
+1077,pickleball,,"['DE', 'US', 'PL', 'AT', 'CH']",['active'],Pickleball
+1078,pickyourown,,"['NO', 'DE', 'FR', 'DK', 'CH', 'CZ', 'JP', 'US', 'AT']",['farms'],Pick Your Own Farms
+1079,piemonte,,"['IT', 'FR']",['italian'],Piemonte
+1080,piercing,,,['beautysvc'],Piercing
+1081,pierogis,,['PL'],['polish'],Pierogis
+1082,pilates,,,['fitness'],Pilates
+1083,pita,,['TR'],['restaurants'],Pita
+1084,pizza,,,['restaurants'],Pizza
+1085,placentaencapsulation,"['DE', 'FR', 'PL', 'AT', 'CH', 'CZ', 'TR']",,['health'],Placenta Encapsulations
+1086,planetarium,,,['arts'],Planetarium
+1087,plasticsurgeons,"['CL', 'MX', 'ES', 'AR']",,['physicians'],Plastic Surgeons
+1088,playgrounds,,,['active'],Playgrounds
+1089,playsets,,,['homeandgarden'],Playsets
+1090,plumbing,,,['homeservices'],Plumbing
+1091,plus_size_fashion,"['IE', 'GB', 'HK', 'CA', 'SG', 'JP', 'MX', 'PL', 'CL', 'TR', 'AR']",,['fashion'],Plus Size Fashion
+1092,podiatrists,['FR'],,['physicians'],Podiatrists
+1093,poke,,"[False, 'PH', 'GB', 'CA', 'BR', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'PT', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'CH', 'NL', 'NZ']",['food'],Poke
+1094,poledancingclasses,"['IE', 'GB', 'CA', 'CH', 'BE', 'MX', 'PL', 'AT', 'PT', 'CL', 'TR', 'ES', 'AR']",,['specialtyschools'],Pole Dancing Classes
+1095,policedepartments,,,['publicservicesgovt'],Police Departments
+1096,polish,"['SG', 'FI']",,['restaurants'],Polish
+1097,polynesian,,['US'],['restaurants'],Polynesian
+1098,poolbilliards,"['NO', 'DE', 'CH', 'CZ', 'MX', 'SE', 'PL', 'AT', 'CL', 'FI', 'ES', 'AR']",,['shopping'],Pool & Billiards
+1099,poolcleaners,"['NO', 'DK']",,['homeservices'],Pool Cleaners
+1100,poolhalls,,,['nightlife'],Pool Halls
+1101,poolservice,,,['homeservices'],Pool & Hot Tub Service
+1102,popcorn,,"['GB', 'JP', 'US']",['gourmet'],Popcorn Shops
+1103,popuprestaurants,,"['PH', 'NO', 'GB', 'CA', 'SG', 'BE', 'SE', 'TW', 'US', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'HK', 'NL', 'NZ']",['restaurants'],Pop-Up Restaurants
+1104,popupshops,['PT'],,['shopping'],Pop-up Shops
+1105,portabletoiletservices,"['PH', 'FR', 'MY', 'HK', 'CZ', 'JP', 'MX', 'TW', 'CL', 'FI', 'AR']",,['localservices'],Portable Toilet Services
+1106,portuguese,['FI'],,['restaurants'],Portuguese
+1107,postoffices,,,['publicservicesgovt'],Post Offices
+1108,postpartumcare,,"['TW', 'MY', 'PL', 'HK', 'JP']",['health'],Postpartum Care
+1109,potatoes,,"['CH', 'DE', 'AU', 'AT']",['restaurants'],Potatoes
+1110,poutineries,,"['CA', 'US']",['restaurants'],Poutineries
+1111,powdercoating,,['US'],['localservices'],Powder Coating
+1112,prenatal,"['PH', 'DE', 'IE', 'MY', 'GB', 'HK', 'CA', 'CH', 'SG', 'JP', 'TW', 'PL', 'AT', 'TR']",,['health'],Prenatal/Perinatal Care
+1113,preschools,['DK'],,['education'],Preschools
+1114,pressurewashers,"['MX', 'HK', 'CL', 'JP', 'AR']",,['homeservices'],Pressure Washers
+1115,pretzels,,"['CH', 'DE', 'US', 'PT']",['food'],Pretzels
+1116,preventivemedicine,,,['physicians'],Preventive Medicine
+1117,printmedia,,,['massmedia'],Print Media
+1118,privateinvestigation,,,['professional'],Private Investigation
+1119,privatejetcharter,,,['transport'],Private Jet Charter
+1120,privateschools,,"['NO', 'DK', 'BR', 'CZ', 'MX', 'SE', 'US', 'NZ', 'PT', 'CL', 'AU', 'ES', 'AR']",['education'],Private Schools
+1121,privatetutors,,,['education'],Private Tutors
+1122,processservers,,"['FR', 'BE', 'US']",['legalservices'],Process Servers
+1123,proctologist,,,['physicians'],Proctologists
+1124,productdesign,,"['PH', 'NO', 'IE', 'FR', 'DK', 'GB', 'CA', 'SG', 'BE', 'US', 'NL', 'AU']",['professional'],Product Design
+1125,professional,,,[],Professional Services
+1126,propane,"['CZ', 'NZ', 'MX', 'AR']",,['localservices'],Propane
+1127,propertymgmt,,,['realestate'],Property Management
+1128,props,,"['BE', 'US']",['shopping'],Props
+1129,prosthetics,,"['IT', 'AU', 'ES', 'US']",['health'],Prosthetics
+1130,prosthodontists,,"['IT', 'ES', 'US']",['health'],Prosthodontists
+1131,provencal,,['FR'],['french'],Provencal
+1132,psychiatrists,,,['physicians'],Psychiatrists
+1133,psychic_astrology,,,['arts'],Supernatural Readings
+1134,psychicmediums,['PL'],,['psychic_astrology'],Psychic Mediums
+1135,psychics,,,['psychic_astrology'],Psychics
+1136,psychoanalysts,,"['FR', 'BR', 'CZ', 'BE', 'MX', 'NL', 'PT', 'ES', 'AR']",['c_and_mh'],Psychoanalysts
+1137,psychologists,"['IE', 'GB', 'PL', 'HK', 'SG', 'JP']",,['c_and_mh'],Psychologists
+1138,psychotechnicaltests,,"['BR', 'ES']",['health'],Psychotechnical Tests
+1139,psychotherapists,,"['NO', 'DE', 'FR', 'DK', 'BR', 'CH', 'CZ', 'SG', 'AT', 'FI']",['c_and_mh'],Psychotherapists
+1140,pubfood,,['AU'],['restaurants'],Pub Food
+1141,publicadjusters,,['US'],['professional'],Public Adjusters
+1142,publicart,,,['localflavor'],Public Art
+1143,publicmarkets,,,['shopping'],Public Markets
+1144,publicplazas,"['IE', 'GB', 'CA', 'BE', 'US', 'NL', 'NZ', 'AU']",,['active'],Public Plazas
+1145,publicrelations,,,['professional'],Public Relations
+1146,publicservicesgovt,,,[],Public Services & Government
+1147,publictransport,,,['transport'],Public Transportation
+1148,pubs,,,['bars'],Pubs
+1149,pueblan,,['MX'],['mexican'],Pueblan
+1150,puertorican,,['US'],['caribbean'],Puerto Rican
+1151,pulmonologist,,,['physicians'],Pulmonologist
+1152,pulquerias,,['MX'],['bars'],Pulquerias
+1153,pumpkinpatches,,['US'],['homeandgarden'],Pumpkin Patches
+1154,qigong,,,['fitness'],Qi Gong
+1155,races,"['PH', 'IE', 'MY', 'IT', 'HK', 'CA', 'JP', 'MX', 'TW', 'PT', 'CL', 'FI', 'TR', 'ES', 'AR']",,['active'],Races & Competitions
+1156,racetracks,"['IE', 'DE', 'AT', 'BR', 'CH', 'SG']",,['arts'],Race Tracks
+1157,racingexperience,,"['US', 'FR', 'SE']",['active'],Racing Experience
+1158,radiologists,,,['physicians'],Radiologists
+1159,radiostations,,,['massmedia'],Radio Stations
+1160,rafting,,,['active'],Rafting/Kayaking
+1161,ramen,,,['japanese'],Ramen
+1162,ranches,,"['MX', 'US', 'CL', 'CZ', 'ES', 'AR']",['farms'],Ranches
+1163,raw_food,,,['restaurants'],Live/Raw Food
+1164,realestate,,,['homeservices'],Real Estate
+1165,realestateagents,,,['realestate'],Real Estate Agents
+1166,realestatelawyers,,,['lawyers'],Real Estate Law
+1167,realestatesvcs,['CZ'],,['realestate'],Real Estate Services
+1168,record_labels,,"['NO', 'DE', 'DK', 'BR', 'CH', 'CZ', 'AT', 'PT']",['localservices'],Record Labels
+1169,recording_studios,,,['localservices'],Recording & Rehearsal Studios
+1170,recreation,,,['active'],Recreation Centers
+1171,recyclingcenter,,,['localservices'],Recycling Center
+1172,refinishing,,,['homeservices'],Refinishing Services
+1173,reflexology,"['TR', 'PL', 'FI', 'SE']",,['health'],Reflexology
+1174,registrationservices,"['NO', 'MX', 'DK', 'CL', 'ES', 'AR']",,['auto'],Registration Services
+1175,registry_office,,"['NO', 'DE', 'DK', 'IT', 'BR', 'CH', 'CZ', 'BE', 'NL', 'AT', 'PT', 'FI']",['publicservicesgovt'],Registry Office
+1176,rehabilitation_center,"['PH', 'FR', 'MY', 'HK', 'CH', 'SG', 'TW', 'AT', 'TR']",,['health'],Rehabilitation Center
+1177,reiki,"['MX', 'HK', 'CL', 'JP', 'AR']",,['health'],Reiki
+1178,religiousitems,,,['shopping'],Religious Items
+1179,religiousorgs,,,[],Religious Organizations
+1180,religiousschools,,"['PH', 'NO', 'DK', 'MY', 'BR', 'CZ', 'MX', 'US', 'NZ', 'PT', 'CL', 'AU', 'ES', 'AR']",['education'],Religious Schools
+1181,rentfurniture,,"['CA', 'JP', 'BE', 'MX', 'US', 'NL', 'PT', 'CL', 'AU', 'ES', 'AR']",['localservices'],Furniture Rental
+1182,reproductivehealthservices,,,['health'],Reproductive Health Services
+1183,reptileshops,,"['NO', 'DE', 'DK', 'IT', 'JP', 'BE', 'SE', 'US', 'NL', 'ES']",['petstore'],Reptile Shops
+1184,residences,,"['PH', 'DE', 'MY', 'IT', 'CH', 'CZ', 'SG', 'US', 'PL', 'AT', 'ES']",['hotels'],Residences
+1185,resorts,,,['hotelstravel'],Resorts
+1186,restaurants,,,[],Restaurants
+1187,reststops,,,['hotels'],Rest Stops
+1188,retinaspecialists,"['CH', 'DE', 'FR', 'AT']",,['opthamalogists'],Retina Specialists
+1189,retirement_homes,,,['health'],Retirement Homes
+1190,reunion,"['NO', 'DE', 'DK', 'BR', 'CH', 'JP', 'MX', 'PL', 'AT', 'NZ', 'CL', 'AU', 'TR', 'AR']",,['french'],Reunion
+1191,reupholstery,,,['localservices'],Furniture Reupholstery
+1192,rhematologists,"['IE', 'GB', 'HK', 'CA', 'SG', 'JP', 'TW', 'PL', 'NZ', 'FI', 'AU', 'TR']",,['physicians'],Rheumatologists
+1193,rhinelandian,,['DE'],['german'],Rhinelandian
+1194,ribatejo,,['PT'],['portuguese'],Ribatejo
+1195,riceshop,,"['TR', 'JP']",['restaurants'],Rice
+1196,roadsideassist,"['IE', 'FR', 'GB', 'HK', 'BR', 'SG', 'SE', 'TW', 'NZ', 'PT', 'FI', 'TR']",,['auto'],Roadside Assistance
+1197,robatayaki,,"['HK', 'JP', 'TW']",['japanese'],Robatayaki
+1198,rock_climbing,,,['active'],Rock Climbing
+1199,rodeo,,['US'],['arts'],Rodeo
+1200,rodizios,,"['PT', 'BR', 'AR']",['brazilian'],Rodizios
+1201,roman,,"['IT', 'JP', 'FR']",['italian'],Roman
+1202,romanian,,"['DE', 'FR', 'CH', 'CZ', 'BE', 'PL', 'AT', 'ES']",['restaurants'],Romanian
+1203,roofing,,,['homeservices'],Roofing
+1204,roofinspectors,,"['CA', 'US']",['homeservices'],Roof Inspectors
+1205,rotisserie_chicken,,"['FR', 'IT', 'BR', 'BE', 'MX', 'NL', 'PL', 'NZ', 'PT', 'CL', 'AU', 'ES', 'AR']",['restaurants'],Rotisserie Chicken
+1206,rugs,"['DE', 'IE', 'HK', 'CH', 'CZ', 'JP', 'PL', 'AT']",,['homeandgarden'],Rugs
+1207,russian,,,['restaurants'],Russian
+1208,rv_dealers,"['PH', 'IE', 'MY', 'GB', 'HK', 'SG', 'JP', 'MX', 'TW', 'NZ', 'PT', 'CL', 'AU', 'TR', 'AR']",,['auto'],RV Dealers
+1209,rvparks,,"['NO', 'GB', 'CA', 'CZ', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'CL', 'FI', 'AU', 'DE', 'IE', 'FR', 'DK', 'IT', 'CH', 'MX', 'NL', 'NZ', 'TR', 'ES', 'AR']",['hotelstravel'],RV Parks
+1210,rvrental,['SG'],,['hotelstravel'],RV Rental
+1211,rvrepair,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'US', 'PL', 'AT', 'PT', 'AU', 'DE', 'IE', 'DK', 'MY', 'CH', 'NL', 'NZ']",['auto'],RV Repair
+1212,ryokan,,['JP'],['hotels'],Ryokan
+1213,safestores,,,['shopping'],Safe Stores
+1214,safetyequipment,,,['shopping'],Safety Equipment
+1215,sailing,,,['active'],Sailing
+1216,sakebars,,['JP'],['bars'],Sake Bars
+1217,salad,,,['restaurants'],Salad
+1218,salumerie,,"['MX', 'IT', 'PT', 'CL', 'ES', 'AR']",['food'],Salumerie
+1219,salvadoran,,"['CA', 'US']",['latin'],Salvadoran
+1220,sambaschools,,"['IT', 'FI', 'BR', 'SE']",['specialtyschools'],Samba Schools
+1221,sandblasting,,"['DE', 'IT', 'BR', 'CH', 'BE', 'US', 'NL', 'AT', 'ES']",['localservices'],Sandblasting
+1222,sandwiches,,,['restaurants'],Sandwiches
+1223,sardinian,,"['IT', 'FR', 'US']",['italian'],Sardinian
+1224,saunainstallation,,"['NO', 'GB', 'CA', 'CZ', 'SG', 'SE', 'US', 'PL', 'AT', 'FI', 'AU', 'DE', 'IE', 'DK', 'IT', 'CH', 'NZ']",['homeservices'],Sauna Installation & Repair
+1225,saunas,"['PH', 'MY', 'CA', 'SG', 'PL', 'NZ', 'AU', 'ES']",,['health'],Saunas
+1226,scandinavian,['PT'],,['restaurants'],Scandinavian
+1227,scandinaviandesign,,"['NO', 'FI', 'DK', 'SE']",['shopping'],Scandinavian Design
+1228,scavengerhunts,,['US'],['active'],Scavenger Hunts
+1229,schnitzel,,"['CH', 'DE', 'PL', 'AT']",['restaurants'],Schnitzel
+1230,scooterrentals,,,['active'],Scooter Rentals
+1231,scootertours,,,['tours'],Scooter Tours
+1232,scottish,,"['DE', 'IE', 'US', 'GB', 'AT', 'CA', 'CH']",['restaurants'],Scottish
+1233,screen_printing_tshirt_printing,"['IE', 'IT', 'GB', 'HK', 'CA', 'CZ', 'SG', 'TW', 'PL', 'NZ', 'FI', 'TR']",,['localservices'],Screen Printing/T-Shirt Printing
+1234,screenprinting,,,['localservices'],Screen Printing
+1235,scuba,,,['diving'],Scuba Diving
+1236,seafood,,,['restaurants'],Seafood
+1237,seafoodmarkets,,,['gourmet'],Seafood Markets
+1238,seasonaldecorservices,"['NO', 'DE', 'FR', 'DK', 'IT', 'CH', 'JP', 'BE', 'NL', 'AT', 'TR']",,['homeservices'],Holiday Decorating Services
+1239,security,['NZ'],,['professional'],Security Services
+1240,securitysystems,,,['homeservices'],Security Systems
+1241,selfdefenseclasses,,,['fitness'],Self-defense Classes
+1242,selfstorage,,,['localservices'],Self Storage
+1243,senegalese,,"['FR', 'US', 'IT', 'CA', 'BE']",['african'],Senegalese
+1244,seniorcenters,['FR'],,['active'],Senior Centers
+1245,septicservices,,"['NO', 'DK', 'CA', 'BR', 'BE', 'US', 'NL', 'PL', 'PT']",['localservices'],Septic Services
+1246,serbocroatian,,"['DE', 'FR', 'IT', 'CH', 'CZ', 'BE', 'SE', 'PL', 'AT', 'CL', 'AR']",['restaurants'],Serbo Croatian
+1247,service_stations,"['PH', 'NO', 'FR', 'DK', 'MY', 'HK', 'BR', 'CZ', 'JP', 'SE', 'TW', 'PT', 'FI', 'TR']",,['auto'],Service Stations
+1248,servicestations,,,['auto'],Gas Stations
+1249,sessionphotography,,,['photographers'],Session Photography
+1250,sewingalterations,,,['localservices'],Sewing & Alterations
+1251,sextherapists,,,['c_and_mh'],Sex Therapists
+1252,shanghainese,,"['FR', 'MY', 'IT', 'HK', 'SG', 'JP', 'BE', 'SE', 'TW', 'US', 'AU']",['chinese'],Shanghainese
+1253,sharedofficespaces,,,['realestate'],Shared Office Spaces
+1254,sharedtaxis,,"['PH', 'NO', 'SE', 'DK', 'BR', 'TR']",['transport'],Shared Taxis
+1255,shavedice,,"['IT', 'CZ', 'SG', 'JP', 'MX', 'TW', 'US', 'CL', 'AR']",['food'],Shaved Ice
+1256,shavedsnow,,"['TW', 'MY', 'US', 'HK', 'CA', 'SG']",['food'],Shaved Snow
+1257,shedsandoutdoorstorage,"['NO', 'FR', 'DK', 'HK', 'CZ', 'JP', 'SE', 'TW', 'FI', 'TR', 'ES']",,['homeandgarden'],Sheds & Outdoor Storage
+1258,shipping_centers,"['NO', 'SE']",,['localservices'],Shipping Centers
+1259,shoerepair,,,['localservices'],Shoe Repair
+1260,shoes,,,['fashion'],Shoe Stores
+1261,shoeshine,"['NL', 'BE']",,['localservices'],Shoe Shine
+1262,shopping,,,[],Shopping
+1263,shoppingcenters,,,['shopping'],Shopping Centers
+1264,shoppingpassages,['US'],,['shopping'],Shopping Passages
+1265,shredding,,"['DE', 'IE', 'GB', 'CA', 'CH', 'CZ', 'SG', 'BE', 'US', 'NL', 'AT', 'NZ', 'AU']",['professional'],Shredding Services
+1266,shrines,,"['MX', 'CL', 'JP', 'ES', 'AR']",['religiousorgs'],Shrines
+1267,shutters,,,['homeservices'],Shutters
+1268,sicilian,,"['FR', 'US', 'IT', 'PL', 'CZ']",['italian'],Sicilian
+1269,signature_cuisine,,"['NO', 'DK', 'MX', 'SE', 'PT', 'CL', 'ES', 'AR']",['restaurants'],Signature Cuisine
+1270,signmaking,,,['professional'],Signmaking
+1271,sikhtemples,,,['religiousorgs'],Sikh Temples
+1272,silentdisco,['JP'],,['eventservices'],Silent Disco
+1273,singaporean,"['DK', 'PT', 'FI', 'CZ', 'TR', 'ES']",,['restaurants'],Singaporean
+1274,skate_parks,,,['parks'],Skate Parks
+1275,skateshops,,,['sportgoods'],Skate Shops
+1276,skatingrinks,,,['active'],Skating Rinks
+1277,skiing,"['PH', 'IE', 'FR', 'MY', 'IT', 'GB', 'HK', 'BR', 'SG', 'MX', 'TW', 'US', 'PL', 'AU', 'TR']",,['active'],Skiing
+1278,skillednursing,,['US'],['health'],Skilled Nursing
+1279,skincare,,,['beautysvc'],Skin Care
+1280,skiresorts,"['SG', 'MX', 'BR', 'DK']",,['hotelstravel'],Ski Resorts
+1281,skischools,,,['specialtyschools'],Ski Schools
+1282,skishops,"['PH', 'DK', 'MY', 'HK', 'BR', 'SG', 'MX', 'TW', 'PT', 'TR']",,['sportgoods'],Ski & Snowboard Shops
+1283,skydiving,,,['active'],Skydiving
+1284,sledding,,"['NO', 'DE', 'IT', 'CA', 'CH', 'CZ', 'US', 'AT', 'NZ', 'PT', 'FI', 'TR']",['active'],Sledding
+1285,sleepspecialists,,,['health'],Sleep Specialists
+1286,sleepwear,,"['AU', 'PT']",['fashion'],Sleepwear
+1287,slovakian,,"['IE', 'FR', 'IT', 'GB', 'CA', 'CZ', 'BE', 'US', 'PL', 'AU']",['restaurants'],Slovakian
+1288,smog_check_stations,"['NO', 'FI', 'DK', 'SE']",,['auto'],Smog Check Stations
+1289,smokehouse,"['MX', 'FR', 'IT', 'PL', 'CL', 'TR', 'AR']",,['food'],Smokehouse
+1290,smokingareas,,['JP'],['localservices'],Smoking Areas
+1291,snorkeling,"['CH', 'DE', 'AT']",,['active'],Snorkeling
+1292,snowremoval,"['HK', 'MX', 'BR', 'NZ']",,['localservices'],Snow Removal
+1293,snuggleservices,,"['JP', 'US']",['localservices'],Snuggle Services
+1294,soba,,"['JP', 'TW']",['japanese'],Soba
+1295,social_clubs,,,['arts'],Social Clubs
+1296,socialsecuritylaw,"['CZ', 'PL']",,['lawyers'],Social Security Law
+1297,softwaredevelopment,,,['professional'],Software Development
+1298,solarinstallation,,,['homeservices'],Solar Installation
+1299,solarpanelcleaning,,['US'],['homeservices'],Solar Panel Cleaning
+1300,somali,,"['DE', 'US', 'IT', 'PL', 'AT', 'CH']",['restaurants'],Somali
+1301,sommelierservices,['FR'],,['eventservices'],Sommelier Services
+1302,sophrologists,,"['CZ', 'PL', 'FR', 'BE']",['c_and_mh'],Sophrologists
+1303,soulfood,,"['NO', 'IE', 'GB', 'CA', 'SE', 'US', 'NL', 'PL', 'ES']",['restaurants'],Soul Food
+1304,soup,,,['restaurants'],Soup
+1305,southafrican,,"['FR', 'US', 'IT', 'CA', 'AU', 'BE']",['african'],South African
+1306,southern,,"['IE', 'GB', 'CA', 'SE', 'US', 'NL', 'PL', 'NZ', 'TR']",['restaurants'],Southern
+1307,souvenirs,"['SG', 'CA']",,['shopping'],Souvenir Shops
+1308,spanish,,,['restaurants'],Spanish
+1309,spas,,,['beautysvc'],Day Spas
+1310,speakeasies,"['IT', 'NO', 'TR', 'DK']",,['bars'],Speakeasies
+1311,specialbikes,,"['DK', 'PT']",['bicycles'],Special Bikes
+1312,specialed,['FI'],,['education'],Special Education
+1313,specialtyschools,,,['education'],Specialty Schools
+1314,speech_therapists,,,['health'],Speech Therapists
+1315,speechtraining,,,['specialtyschools'],Speech Training
+1316,spermclinic,,"['NO', 'DE', 'FR', 'DK', 'IT', 'BE', 'MX', 'US', 'NL', 'CL', 'ES', 'AR']",['health'],Sperm Clinic
+1317,spinesurgeons,,['US'],['physicians'],Spine Surgeons
+1318,spiritism,,['BR'],['religiousorgs'],Spiritism
+1319,spiritual_shop,,,['shopping'],Spiritual Shop
+1320,sport_equipment_hire,,"['NO', 'DK', 'CZ', 'MX', 'PT', 'CL', 'AU', 'ES', 'AR']",['active'],Sport Equipment Hire
+1321,sportgoods,,,['shopping'],Sporting Goods
+1322,sports_clubs,,,['active'],Sports Clubs
+1323,sportsbars,"['CH', 'AT']",,['bars'],Sports Bars
+1324,sportsbetting,,"['IT', 'US']",['arts'],Sports Betting
+1325,sportsmed,,,['physicians'],Sports Medicine
+1326,sportspsychologists,,"['IT', 'US', 'SG', 'NZ']",['c_and_mh'],Sports Psychologists
+1327,sportsteams,,,['arts'],Professional Sports Teams
+1328,sportswear,,,"['sportgoods', 'fashion']",Sports Wear
+1329,spraytanning,"['IE', 'SE', 'PL', 'CA', 'BR']",,['tanning'],Spray Tanning
+1330,squash,"['PT', 'SG', 'BR', 'NZ']",,['active'],Squash
+1331,srilankan,['CZ'],,['restaurants'],Sri Lankan
+1332,stadiumsarenas,,,['arts'],Stadiums & Arenas
+1333,stationery,,,"['eventservices', 'artsandcrafts', 'flowers']",Cards & Stationery
+1334,steak,,,['restaurants'],Steakhouses
+1335,stereo_installation,"['CH', 'DK', 'AT']",,['auto'],Car Stereo Installation
+1336,stockings,,"['DE', 'NL', 'AT', 'PT', 'CH', 'CZ', 'BE']",['fashion'],Stockings
+1337,stonemasons,,,['localservices'],Stonemasons
+1338,streetart,"['IE', 'MY', 'GB', 'CA', 'CH', 'SG', 'US', 'AT', 'FI', 'TR']",,['arts'],Street Art
+1339,streetvendors,,,['food'],Street Vendors
+1340,stripclubs,,,['adultentertainment'],Strip Clubs
+1341,stripteasedancers,,,['adultentertainment'],Striptease Dancers
+1342,structuralengineers,,,['homeservices'],Structural Engineers
+1343,stucco,,,['homeservices'],Stucco Services
+1344,studiotaping,,"['NL', 'BE', 'US']",['arts'],Studio Taping
+1345,sud_ouest,,"['FR', 'BE']",['restaurants'],French Southwest
+1346,sugaring,,"['NO', 'DE', 'DK', 'CH', 'CZ', 'US', 'AT', 'FI']",['hairremoval'],Sugaring
+1347,sugarshacks,,['CA'],['food'],Sugar Shacks
+1348,sukiyaki,,"['JP', 'TW']",['japanese'],Sukiyaki
+1349,summer_camps,,,['active'],Summer Camps
+1350,sunglasses,,,['opticians'],Sunglasses
+1351,supperclubs,,"['CA', 'GB', 'ES', 'US']",['restaurants'],Supper Clubs
+1352,suppliesrestaurant,,"['NO', 'GB', 'CA', 'SG', 'JP', 'BE', 'US', 'PL', 'AT', 'CL', 'AU', 'IE', 'DE', 'DK', 'IT', 'CH', 'MX', 'NL', 'NZ', 'ES', 'AR']",['wholesalers'],Restaurant Supplies
+1353,surfing,,"['DE', 'FR', 'DK', 'IT', 'BR', 'JP', 'MX', 'SE', 'US', 'NL', 'NZ', 'PT', 'CL', 'ES', 'AR']",['active'],Surfing
+1354,surflifesaving,,"['BR', 'MX', 'NZ', 'PT', 'CL', 'AU', 'ES', 'AR']",['active'],Surf Lifesaving
+1355,surfschools,,,['specialtyschools'],Surf Schools
+1356,surfshop,"['NO', 'IE', 'FR', 'CA', 'BR', 'CZ', 'SG', 'BE', 'SE', 'NL', 'FI']",,['fashion'],Surf Shop
+1357,surgeons,,,['physicians'],Surgeons
+1358,sushi,,,['restaurants'],Sushi Bars
+1359,swabian,,"['CH', 'DE', 'AT']",['restaurants'],Swabian
+1360,swedish,,['SE'],['restaurants'],Swedish
+1361,swimminglessons,,,"['fitness', 'specialtyschools']",Swimming Lessons/Schools
+1362,swimmingpools,,,['active'],Swimming Pools
+1363,swimwear,,,['fashion'],Swimwear
+1364,swissfood,,"['DE', 'MX', 'CL', 'CH', 'CZ', 'ES', 'AR']",['restaurants'],Swiss Food
+1365,synagogues,,,['religiousorgs'],Synagogues
+1366,syrian,,,['restaurants'],Syrian
+1367,szechuan,,"['IE', 'FR', 'MY', 'GB', 'HK', 'SG', 'JP', 'TW', 'US', 'NZ', 'AU']",['chinese'],Szechuan
+1368,tabac,,"['FR', 'IT', 'CZ', 'ES', 'BE']",['bars'],Tabac
+1369,tabernas,,"['TR', 'ES', 'PT']",['restaurants'],Tabernas
+1370,tablaoflamenco,,"['MX', 'PT', 'CL', 'ES', 'AR']",['arts'],Tablao Flamenco
+1371,tabletopgames,,,['shopping'],Tabletop Games
+1372,tableware,,"['NO', 'DE', 'FR', 'DK', 'BR', 'CH', 'CZ', 'BE', 'MX', 'US', 'NL', 'AT', 'PT', 'CL', 'AR']",['homeandgarden'],Tableware
+1373,tacos,,"['MX', 'US']",['mexican'],Tacos
+1374,taekwondo,,,['martialarts'],Taekwondo
+1375,taichi,,,['fitness'],Tai Chi
+1376,taiwanese,"['PT', 'FI', 'CZ', 'TR', 'ES']",,['restaurants'],Taiwanese
+1377,taiyaki,,['JP'],['jpsweets'],Taiyaki
+1378,takoyaki,,"['JP', 'TW']",['japanese'],Takoyaki
+1379,talentagencies,"['IE', 'GB', 'HK', 'CA', 'CH', 'CZ', 'SG', 'AT', 'NZ', 'AU', 'TR']",,['professional'],Talent Agencies
+1380,tamales,,['MX'],['mexican'],Tamales
+1381,tanning,,,['beautysvc'],Tanning
+1382,tanningbeds,"['FI', 'PL', 'BR', 'SE']",,['tanning'],Tanning Beds
+1383,taoisttemples,,"['HK', 'TW']",['religiousorgs'],Taoist Temples
+1384,tapas,"['SG', 'AU', 'FI']",,['restaurants'],Tapas Bars
+1385,tapasmallplates,,,['restaurants'],Tapas/Small Plates
+1386,tastingclasses,,,['education'],Tasting Classes
+1387,tattoo,,,['beautysvc'],Tattoo
+1388,tattooremoval,,,['physicians'],Tattoo Removal
+1389,tavolacalda,,['IT'],['restaurants'],Tavola Calda
+1390,taxidermy,"['NO', 'IE', 'DK', 'CA', 'BR', 'CZ', 'SG', 'SE', 'NL', 'NZ', 'FI']",,['professional'],Taxidermy
+1391,taxis,,,['transport'],Taxis
+1392,taxlaw,,"['DE', 'FR', 'BR', 'CH', 'CZ', 'SG', 'BE', 'US', 'PL', 'AT', 'AU']",['lawyers'],Tax Law
+1393,taxoffice,"['US', 'PL', 'CA', 'SG', 'ES']",,['publicservicesgovt'],Tax Office
+1394,taxservices,,,['financialservices'],Tax Services
+1395,tcm,['CZ'],,['health'],Traditional Chinese Medicine
+1396,tea,,,['food'],Tea Rooms
+1397,teachersupplies,"['IT', 'FR']",,['shopping'],Teacher Supplies
+1398,teambuilding,,,['eventservices'],Team Building Activities
+1399,teethwhitening,"['CH', 'DE', 'AT']",,['beautysvc'],Teeth Whitening
+1400,telecommunications,"['CL', 'MX', 'JP', 'AR']",,['itservices'],Telecommunications
+1401,televisionserviceproviders,,,['homeservices'],Television Service Providers
+1402,televisionstations,,,['massmedia'],Television Stations
+1403,tempura,,"['SG', 'JP', 'TW']",['japanese'],Tempura
+1404,tenantlaw,['CZ'],,['professional'],Tenant and Eviction Law
+1405,tennis,,,['active'],Tennis
+1406,teochew,,"['HK', 'SG', 'TW', 'MY']",['chinese'],Teochew
+1407,teppanyaki,,"['HK', 'SG', 'JP', 'MX', 'TW', 'US', 'NZ', 'AU']",['japanese'],Teppanyaki
+1408,testprep,,,['education'],Test Preparation
+1409,tex-mex,"['ES', 'AU', 'DK', 'PT']",,['restaurants'],Tex-Mex
+1410,thai,,,['restaurants'],Thai
+1411,theater,,,['arts'],Performing Arts
+1412,themedcafes,,"['PH', 'NO', 'GB', 'CA', 'SG', 'JP', 'BE', 'SE', 'TW', 'US', 'PL', 'AT', 'CL', 'FI', 'AU', 'DE', 'IE', 'FR', 'DK', 'MY', 'HK', 'CH', 'MX', 'NL', 'NZ', 'AR']",['cafes'],Themed Cafes
+1413,threadingservices,,,['hairremoval'],Threading Services
+1414,thrift_stores,['FI'],,['shopping'],Thrift Stores
+1415,tickets,,"['NO', 'DK', 'CZ', 'SE', 'PL', 'PT', 'CL', 'FI']",['shopping'],Tickets
+1416,ticketsales,"['IE', 'GB', 'SG', 'SE', 'NL', 'PL', 'NZ', 'FI', 'TR', 'ES']",,['arts'],Ticket Sales
+1417,tikibars,"['DE', 'FR', 'PL', 'AT', 'CH', 'TR', 'JP']",,['bars'],Tiki Bars
+1418,tiling,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'BR', 'JP', 'BE', 'TW', 'NL', 'PL', 'PT', 'FI', 'TR']",,['homeservices'],Tiling
+1419,tires,,,['auto'],Tires
+1420,titleloans,,"['CA', 'US']",['financialservices'],Title Loans
+1421,tobaccoshops,,,['shopping'],Tobacco Shops
+1422,tofu,,['JP'],['gourmet'],Tofu Shops
+1423,tonkatsu,,"['SG', 'JP', 'TW']",['japanese'],Tonkatsu
+1424,torshi,,['TR'],['food'],Torshi
+1425,tortillas,,['MX'],['food'],Tortillas
+1426,tours,,,['hotelstravel'],Tours
+1427,towing,,,['auto'],Towing
+1428,towncarservice,,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'SG', 'BE', 'TW', 'US', 'NL', 'NZ', 'AU']",['transport'],Town Car Service
+1429,townhall,"['PH', 'IE', 'MY', 'GB', 'HK', 'CA', 'SG', 'JP', 'TW', 'PL', 'NZ', 'FI', 'AU']",,['publicservicesgovt'],Town Hall
+1430,toxicologists,,,['physicians'],Toxicologists
+1431,toys,,,['shopping'],Toy Stores
+1432,tradamerican,,,['restaurants'],American (Traditional)
+1433,tradclothing,,,['fashion'],Traditional Clothing
+1434,tradefairs,,"['NO', 'DE', 'DK', 'IT', 'CH', 'CZ', 'JP', 'BE', 'MX', 'NL', 'AT', 'NZ', 'PT', 'FI', 'TR']",['festivals'],Trade Fairs
+1435,traditional_swedish,,"['FI', 'SE']",['restaurants'],Traditional Swedish
+1436,trafficschools,,['US'],['specialtyschools'],Traffic Schools
+1437,trafficticketinglaw,,['US'],['lawyers'],Traffic Ticketing Law
+1438,trailerdealers,,"['NO', 'DE', 'IE', 'DK', 'GB', 'CA', 'SG', 'US', 'NZ', 'AU']",['auto'],Trailer Dealers
+1439,trailerrental,,,['auto'],Trailer Rental
+1440,trailerrepair,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'SE', 'US', 'PL', 'AT', 'PT', 'AU', 'IE', 'DE', 'DK', 'MY', 'CH', 'NL', 'NZ']",['auto'],Trailer Repair
+1441,trains,"['PH', 'MY', 'IT', 'HK', 'SG', 'JP', 'MX', 'TW', 'NZ', 'CL', 'FI', 'TR', 'ES', 'AR']",,['transport'],Trains
+1442,trainstations,,,['hotelstravel'],Train Stations
+1443,trampoline,"['PH', 'MY', 'HK', 'BR', 'SG', 'JP', 'MX', 'TW', 'NZ', 'CL', 'ES', 'AR']",,['active'],Trampoline Parks
+1444,translationservices,['SE'],,['professional'],Translation Services
+1445,transmissionrepair,"['PH', 'DE', 'MY', 'IT', 'AT', 'CH']",,['auto'],Transmission Repair
+1446,transport,,,['hotelstravel'],Transportation
+1447,tras_os_montes,,['PT'],['portuguese'],Tras-os-Montes
+1448,trattorie,,"['FR', 'IT', 'PL', 'CL', 'CH', 'AR']",['restaurants'],Trattorie
+1449,travelagents,['IT'],,['travelservices'],Travel Agents
+1450,travelservices,,,['hotelstravel'],Travel Services
+1451,treeservices,,,['homeservices'],Tree Services
+1452,trinidadian,,['US'],['caribbean'],Trinidadian
+1453,triviahosts,,['US'],['eventservices'],Trivia Hosts
+1454,trophyshops,"['SE', 'NZ', 'FI', 'BR', 'SG', 'TR']",,['shopping'],Trophy Shops
+1455,tropicalmedicine,,"['DE', 'NL', 'IT', 'AT', 'BR', 'CH', 'BE']",['physicians'],Tropical Medicine
+1456,truck_rental,"['SE', 'NL', 'FI', 'CZ', 'TR', 'JP']",,['auto'],Truck Rental
+1457,truckdealers,"['SE', 'TW', 'HK', 'FI', 'CZ', 'TR', 'JP']",,['auto'],Commercial Truck Dealers
+1458,truckrepair,,"['PH', 'NO', 'GB', 'CA', 'BR', 'SG', 'BE', 'US', 'PL', 'AT', 'CL', 'AU', 'IE', 'DE', 'FR', 'DK', 'MY', 'IT', 'CH', 'MX', 'NL', 'NZ', 'ES', 'AR']",['auto'],Commercial Truck Repair
+1459,tubing,,['US'],['active'],Tubing
+1460,tuina,,,['tcm'],Tui Na
+1461,turkish,,,['restaurants'],Turkish
+1462,turkishravioli,,['TR'],['turkish'],Turkish Ravioli
+1463,tuscan,,"['IT', 'FR', 'US']",['italian'],Tuscan
+1464,tutoring,,,['education'],Tutoring Centers
+1465,tvmounting,"['FR', 'NL', 'IT', 'JP', 'BE']",,['localservices'],TV Mounting
+1466,udon,,"['NO', 'SE', 'DK', 'TW', 'HK', 'FI', 'JP']",['japanese'],Udon
+1467,ukrainian,"['ES', 'TR', 'DK']",,['restaurants'],Ukrainian
+1468,ultrasoundimagingcenters,,,['health'],Ultrasound Imaging Centers
+1469,unagi,,"['JP', 'TW']",['japanese'],Unagi
+1470,underseamedicine,,,['physicians'],Undersea/Hyperbaric Medicine
+1471,uniforms,"['IE', 'CH', 'CZ', 'JP', 'SE', 'NL', 'AT', 'TR']",,['shopping'],Uniforms
+1472,university_housing,,,['realestate'],University Housing
+1473,unofficialyelpevents,,,['localflavor'],Unofficial Yelp Events
+1474,urgent_care,,,['health'],Urgent Care
+1475,urologists,,,['physicians'],Urologists
+1476,usedbooks,"['CL', 'AU', 'TR', 'AR']",,['shopping'],Used Bookstore
+1477,usedcardealers,,,['auto'],Used Car Dealers
+1478,utilities,,"['IT', 'GB', 'CZ', 'SG', 'BE', 'US', 'NL', 'PL', 'PT', 'AU']",['homeservices'],Utilities
+1479,uzbek,,"['CZ', 'US']",['restaurants'],Uzbek
+1480,vacation_rentals,['SG'],,['hotelstravel'],Vacation Rentals
+1481,vacationrentalagents,"['SG', 'ES']",,['hotelstravel'],Vacation Rental Agents
+1482,valetservices,,"['TR', 'BR', 'US']",['eventservices'],Valet Services
+1483,vapeshops,"['SG', 'BR']",,['shopping'],Vape Shops
+1484,vascularmedicine,,,['physicians'],Vascular Medicine
+1485,vegan,,,['restaurants'],Vegan
+1486,vegetarian,,,['restaurants'],Vegetarian
+1487,vehicleshipping,,,['auto'],Vehicle Shipping
+1488,vehiclewraps,"['TR', 'FR', 'BE']",,['auto'],Vehicle Wraps
+1489,venetian,,"['IT', 'FR']",['italian'],Venetian
+1490,venezuelan,,"['FR', 'US', 'PT', 'CL', 'CA', 'ES', 'AR']",['latin'],Venezuelan
+1491,venison,,"['NO', 'IE', 'DK', 'IT', 'GB', 'CA', 'CZ', 'SG', 'PL', 'NZ', 'AU']",['restaurants'],Venison
+1492,venues,,,['eventservices'],Venues & Event Spaces
+1493,vermouthbars,"['NO', 'FR', 'DK', 'IT', 'BR', 'JP', 'PL', 'TR']",,['bars'],Vermouth Bars
+1494,vet,,,['pets'],Veterinarians
+1495,veteransorganizations,,['US'],['social_clubs'],Veterans Organizations
+1496,videoandgames,,,['media'],Videos & Video Game Rental
+1497,videofilmproductions,,,['professional'],Video/Film Production
+1498,videogamestores,,,['media'],Video Game Stores
+1499,videographers,,,['eventservices'],Videographers
+1500,vietnamese,,,['restaurants'],Vietnamese
+1501,vintage,,,['fashion'],"Used, Vintage & Consignment"
+1502,vinyl_records,,,['media'],Vinyl Records
+1503,vinylsiding,,"['NO', 'IE', 'DK', 'GB', 'CA', 'SG', 'BE', 'SE', 'US', 'NL', 'NZ', 'AU']",['homeservices'],Siding
+1504,virtualrealitycenters,,,['arts'],Virtual Reality Centers
+1505,visitorcenters,,,['travelservices'],Visitor Centers
+1506,vitaminssupplements,"['PH', 'MY']",,['shopping'],Vitamins & Supplements
+1507,vocalcoach,,,['musicinstrumentservices'],Vocal Coach
+1508,vocation,,,['specialtyschools'],Vocational & Technical School
+1509,volleyball,,"['NO', 'DE', 'FR', 'DK', 'BR', 'CZ', 'SG', 'JP', 'SE', 'AT', 'NZ', 'FI', 'AU']",['active'],Volleyball
+1510,waffles,,,['restaurants'],Waffles
+1511,waldorfschools,['FI'],,['education'],Waldorf Schools
+1512,walkinclinics,"['CH', 'IT', 'DE', 'AT']",,['medcenters'],Walk-in Clinics
+1513,walkingtours,,,['tours'],Walking Tours
+1514,wallpapering,,,['homeservices'],Wallpapering
+1515,watch_repair,,,['localservices'],Watch Repair
+1516,watches,,,['shopping'],Watches
+1517,waterdelivery,,"['PH', 'US', 'MY', 'HK', 'CA', 'BR']",['localservices'],Water Delivery
+1518,waterheaterinstallrepair,,,['homeservices'],Water Heater Installation/Repair
+1519,waterparks,"['DE', 'IE', 'MY', 'GB', 'HK', 'CH', 'AT', 'NZ', 'CL', 'FI', 'AU', 'AR']",,['active'],Water Parks
+1520,waterproofing,,,['homeservices'],Waterproofing
+1521,waterpurification,,,['homeservices'],Water Purification Services
+1522,waterstores,,"['CA', 'MX', 'BR', 'US']",['food'],Water Stores
+1523,watersuppliers,,,['utilities'],Water Suppliers
+1524,watertaxis,,"['IE', 'MX', 'IT', 'GB', 'NZ', 'AU']",['transport'],Water Taxis
+1525,waxing,,,['hairremoval'],Waxing
+1526,web_design,,,['professional'],Web Design
+1527,wedding_planning,,,['eventservices'],Wedding Planning
+1528,weddingchappels,,"['AU', 'JP', 'US']",['eventservices'],Wedding Chapels
+1529,weightlosscenters,,,['health'],Weight Loss Centers
+1530,welldrilling,,"['PH', 'NO', 'BR', 'CZ', 'US', 'PL', 'AT', 'CL', 'DE', 'DK', 'MY', 'IT', 'CH', 'MX', 'ES', 'AR']",['localservices'],Well Drilling
+1531,westernjapanese,,"['SG', 'JP', 'TW']",['japanese'],Western Style Japanese Food
+1532,whalewatchingtours,"['CH', 'DE', 'AT']",,['tours'],Whale Watching Tours
+1533,wheelrimrepair,,"['IT', 'US', 'PT']",['auto'],Wheel & Rim Repair
+1534,whiskeybars,['IT'],,['bars'],Whiskey Bars
+1535,wholesale_stores,"['CH', 'DE', 'AT']",,['shopping'],Wholesale Stores
+1536,wholesalers,"['PH', 'FR', 'MY', 'HK', 'BR', 'CZ', 'SE', 'TW', 'PT', 'FI', 'TR']",,['professional'],Wholesalers
+1537,wigs,"['PH', 'IE', 'MY', 'GB', 'HK', 'BR', 'CH', 'SG', 'JP', 'SE', 'TW', 'AT', 'NZ', 'TR']",,['shopping'],Wigs
+1538,wildlifecontrol,['JP'],,['localservices'],Wildlife Control
+1539,wildlifehunting,,['US'],['active'],Wildlife Hunting Ranges
+1540,willstrustsprobates,,"['IE', 'IT', 'GB', 'CA', 'SG', 'BE', 'US', 'NL', 'NZ', 'AU']",['estateplanning'],"Wills, Trusts, & Probates"
+1541,windowsinstallation,,,['homeservices'],Windows Installation
+1542,windowwashing,,,['homeservices'],Window Washing
+1543,windshieldinstallrepair,"['CH', 'CZ', 'DE', 'AT']",,['auto'],Windshield Installation & Repair
+1544,wine_bars,,,['bars'],Wine Bars
+1545,wineries,['FI'],,"['arts', 'food']",Wineries
+1546,winetasteclasses,,,['tastingclasses'],Wine Tasting Classes
+1547,winetastingroom,,,['wineries'],Wine Tasting Room
+1548,winetours,,,['tours'],Wine Tours
+1549,wok,"['IE', 'IT', 'GB', 'HK', 'CA', 'BR', 'SG', 'JP', 'TW', 'US', 'PL', 'NZ', 'AU', 'TR', 'AR']",,['restaurants'],Wok
+1550,womenscloth,,,['fashion'],Women's Clothing
+1551,workerscomplaw,"['CH', 'DE', 'FR', 'AT']",,['lawyers'],Workers Compensation Law
+1552,wraps,,"['NO', 'SE', 'DK', 'US', 'PT', 'CZ', 'TR']",['restaurants'],Wraps
+1553,xmasmarkets,"['IE', 'US', 'NZ', 'CA', 'BR', 'SG', 'TR']",,['festivals'],Christmas Markets
+1554,yakiniku,,"['SG', 'JP', 'TW']",['japanese'],Yakiniku
+1555,yakitori,,"['SG', 'JP', 'TW']",['japanese'],Yakitori
+1556,yelpevents,,,['localflavor'],Yelp Events
+1557,yoga,,,['fitness'],Yoga
+1558,youth_club,,"['NO', 'GB', 'CA', 'CZ', 'SG', 'BE', 'SE', 'PT', 'FI', 'AU', 'IE', 'DE', 'FR', 'DK', 'IT', 'CH', 'NL', 'NZ']",['localservices'],Youth Club
+1559,yucatan,,['MX'],['mexican'],Yucatan
+1560,yugoslav,,"['FR', 'SE', 'IT', 'PT', 'AU', 'BE']",['restaurants'],Yugoslav
+1561,zapiekanka,,['PL'],['food'],Zapiekanka
+1562,zipline,,,['active'],Ziplining
+1563,zoos,,,['active'],Zoos
+1564,zorbing,,"['MX', 'US', 'PT', 'NZ', 'CZ', 'ES']",['active'],Zorbing
