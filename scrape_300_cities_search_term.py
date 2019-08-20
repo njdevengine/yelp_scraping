@@ -326,7 +326,7 @@ all_cities = ["New York, New York",
 ###other arguments
 responses = []
 for i in all_cities:
-    response = yelp_api.search_query(term='your search term', location=i,limit=50)
+    response = yelp_api.search_query(term='vietnamese', location=i+" ,NJ",limit=50)
     responses.append(response)
     print(i,"done...")
     
@@ -339,6 +339,8 @@ lat = []
 lon = []
 categories = []
 urls = []
+state = []
+price = []
 for i in range(len(responses)):
     for n in range(len(responses[i]['businesses'])):
         try:
@@ -351,10 +353,15 @@ for i in range(len(responses)):
             lon.append(responses[i]['businesses'][n]['coordinates']['longitude'])
             categories.append(str(responses[i]['businesses'][n]['categories'][:]))
             urls.append(responses[i]['businesses'][n]['url'])
+            state.append(responses[i]['businesses'][n]['location']['state'])
         except Exception as e: print(e)
-        
+        try:
+            price.append(responses[i]['businesses'][n]['price'])
+        except:
+            price.append("")
+
 data = {'business':names, 'address':places,'rating':ratings,'review_count':reviews,
-                'phone':phone,'lat':lat,'lon':lon,'categories':categories} 
+                'phone':phone,'lat':lat,'lon':lon,'categories':categories,'urls':urls,'price':price,'state':state} 
 df = pd.DataFrame(data)
 
 clean = df.drop_duplicates()
